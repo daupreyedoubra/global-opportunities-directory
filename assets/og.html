@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<style>
+  :root {
+    --bg: oklch(1 0 0);
+    --surface: oklch(0.965 0.004 25);
+    --ink: oklch(0.22 0.015 25);
+    --muted: oklch(0.49 0.012 25);
+    --line: oklch(0.88 0.005 25);
+    --primary: oklch(0.527 0.202 22.7);
+    --primary-ink: oklch(0.4 0.17 22.7);
+    --accent: oklch(0.38 0.1 165);
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { width: 1200px; height: 630px; }
+  body {
+    display: flex;
+    font: 400 16px/1.5 ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    color: var(--ink);
+    background: var(--bg);
+    overflow: hidden;
+  }
+
+  /* ── Left panel ─────────────────────────────── */
+  .panel {
+    width: 648px;
+    flex: 0 0 648px;
+    padding: 56px 52px 48px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-top: 8px solid var(--ink);
+  }
+
+  .kicker {
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--primary-ink);
+  }
+
+  h1 {
+    font-family: Georgia, "Iowan Old Style", "Times New Roman", serif;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 1.04;
+    letter-spacing: -0.015em;
+    margin: 18px 0 14px;
+  }
+  h1 .year { color: var(--primary); }
+
+  .promise {
+    font-size: 23px;
+    line-height: 1.4;
+    color: var(--ink);
+    max-width: 20ch;
+  }
+
+  .stats {
+    display: flex;
+    gap: 34px;
+    margin-top: 8px;
+    padding-top: 26px;
+    border-top: 1px solid var(--line);
+  }
+  .stat .n {
+    font-size: 46px;
+    font-weight: 800;
+    line-height: 1;
+    font-variant-numeric: tabular-nums;
+    letter-spacing: -0.02em;
+  }
+  .stat .l {
+    display: block;
+    margin-top: 7px;
+    font-size: 12.5px;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+  .stat.total .n { color: var(--ink); }
+  .stat.closed .n { color: var(--primary); }
+  .stat.open .n { color: var(--accent); }
+
+  .credit {
+    font-size: 15px;
+    color: var(--muted);
+    margin-top: 22px;
+  }
+  .credit b { color: var(--ink); font-weight: 600; }
+
+  /* ── Right peek (real screenshot) ───────────── */
+  .peek {
+    position: relative;
+    flex: 1;
+    overflow: hidden;
+    border-left: 1px solid var(--line);
+    background: var(--surface);
+  }
+  .peek img {
+    position: absolute;
+    top: -168px;
+    left: -30px;
+    width: 1010px;
+    height: auto;
+    filter: saturate(1.02);
+  }
+  /* soft fade so the crop doesn't look severed at the bottom */
+  .peek::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    box-shadow: inset 22px 0 34px -22px rgba(0,0,0,0.16),
+                inset 0 -70px 46px -40px var(--bg);
+    pointer-events: none;
+  }
+</style>
+</head>
+<body>
+  <div class="panel">
+    <div>
+      <p class="kicker">Grants · Accelerators · Fellowships</p>
+      <h1>The Opportunities<br>Directory <span class="year">2026/27</span></h1>
+      <p class="promise">Sorted by deadline. Filtered by who actually qualifies.</p>
+    </div>
+    <div>
+      <div class="stats">
+        <div class="stat total"><span class="n">142</span><span class="l">Opportunities</span></div>
+        <div class="stat closed"><span class="n">83</span><span class="l">Already&nbsp;closed</span></div>
+        <div class="stat open"><span class="n">44</span><span class="l">Still&nbsp;open</span></div>
+      </div>
+      <p class="credit">Verified July 2026 · Data compiled by <b>Abdulsamad @richtosho</b></p>
+    </div>
+  </div>
+  <div class="peek">
+    <img src="file:///tmp/shots/vercel-serve.png" alt="">
+  </div>
+</body>
+</html>
