@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Opportunities Directory 2026/27 — sorted by deadline, filtered by who qualifies</title>
+<meta name="description" content="All 142 opportunities from the 2026/2027 Global & Regional Opportunities Directory — verified deadlines, eligibility criteria, and live open/closed status. Qualify first. Never miss a deadline.">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="masthead">
+  <div class="wrap">
+    <h1>The Opportunities Directory <span class="year">2026/27</span></h1>
+    <p class="masthead-promise">Sorted by deadline. Filtered by who actually qualifies. <span class="promise-count" id="headline-count"></span></p>
+    <p class="masthead-kicker">Verified 4 July 2026 · Data compiled by <a href="https://x.com/richtosho" rel="author">Abdulsamad @richtosho</a></p>
+  </div>
+</header>
+
+<nav class="filters" aria-label="Filter opportunities">
+  <div class="wrap filters-inner">
+    <div class="search-row">
+      <label class="search" for="q">
+        <svg viewBox="0 0 16 16" width="14" height="14" aria-hidden="true"><circle cx="7" cy="7" r="5.2" fill="none" stroke="currentColor" stroke-width="1.6"/><line x1="11" y1="11" x2="15" y2="15" stroke="currentColor" stroke-width="1.6"/></svg>
+        <input id="q" type="search" placeholder="Search 142 opportunities — try “grant”, “women”, “AI”…" autocomplete="off">
+      </label>
+      <label class="select-wrap" for="type">
+        <span class="visually-hidden">Type</span>
+        <select id="type">
+          <option value="">All types</option>
+        </select>
+      </label>
+      <label class="select-wrap" for="sort">
+        <span class="visually-hidden">Sort</span>
+        <select id="sort">
+          <option value="deadline">Sort: soonest deadline</option>
+          <option value="name">Sort: name A–Z</option>
+        </select>
+      </label>
+    </div>
+    <div class="chip-row" role="group" aria-label="Profile">
+      <span class="chip-row-label">I am…</span>
+      <button class="chip" data-facet="profile" data-value="women" aria-pressed="false">A woman founder</button>
+      <button class="chip" data-facet="profile" data-value="youth" aria-pressed="false">Under 35</button>
+      <button class="chip" data-facet="profile" data-value="student" aria-pressed="false">A student / graduate</button>
+      <button class="chip" data-facet="profile" data-value="nigeria" aria-pressed="false">In Nigeria</button>
+    </div>
+    <div class="chip-row" role="group" aria-label="Status">
+      <span class="chip-row-label">Status</span>
+      <button class="chip" data-facet="status" data-value="actionable" aria-pressed="true">Still open</button>
+      <button class="chip" data-facet="status" data-value="closing-soon" aria-pressed="false">Closing soon</button>
+      <button class="chip" data-facet="status" data-value="closed" aria-pressed="false">Closed</button>
+      <button class="chip" data-facet="status" data-value="all" aria-pressed="false">Everything</button>
+    </div>
+    <div class="chip-row" role="group" aria-label="Region">
+      <span class="chip-row-label">Region</span>
+      <button class="chip" data-facet="region" data-value="" aria-pressed="true">Anywhere</button>
+      <button class="chip" data-facet="region" data-value="Africa" aria-pressed="false">Africa</button>
+      <button class="chip" data-facet="region" data-value="Global" aria-pressed="false">Global</button>
+      <button class="chip" data-facet="region" data-value="Europe" aria-pressed="false">Europe</button>
+      <button class="chip" data-facet="region" data-value="Asia" aria-pressed="false">Asia</button>
+      <button class="chip" data-facet="region" data-value="Americas" aria-pressed="false">Americas</button>
+      <button class="chip" data-facet="region" data-value="Middle East" aria-pressed="false">Middle East</button>
+    </div>
+  </div>
+</nav>
+
+<main class="wrap" id="main">
+  <p class="summary" id="summary" role="status" aria-live="polite"></p>
+  <ol class="rows" id="rows"></ol>
+  <div class="empty" id="empty" hidden>
+    <p class="empty-title">Nothing matches those filters.</p>
+    <p>Try “Everything” under Status, or clear the region and profile filters — closed entries still show the next expected cycle where we found one.</p>
+    <button class="btn-reset" id="reset">Clear all filters</button>
+  </div>
+</main>
+
+<footer class="footer">
+  <div class="wrap">
+    <p><strong>Where this data comes from.</strong> The list is the “2026/2027 Global and Regional Opportunities Directory” PDF compiled by <a href="https://x.com/richtosho">Abdulsamad (@richtosho)</a> and shared freely on X — all 142 entries, nothing removed. We added what the PDF couldn’t hold: application deadlines, eligibility criteria, and open/closed status, each verified against official pages and program announcements on <strong>4 July 2026</strong>.</p>
+    <p class="footer-caveat">Deadlines change and cohorts reopen. Always confirm on the official page before planning an application — that’s the whole point of this site.</p>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,2934 @@
+{
+ "verifiedAsOf": "2026-07-04",
+ "source": "Compiled by Abdulsamad @richtosho — verified & enriched July 2026",
+ "opportunities": [
+  {
+   "id": 1,
+   "name": "Accelerator A26 Program",
+   "regions": [
+    "Africa",
+    "Global"
+   ],
+   "country": null,
+   "benefits": "Startup acceleration & mentorship",
+   "url": "https://thescathgroup.univer.se/accelerator",
+   "type": "accelerator",
+   "amount": null,
+   "deadline": null,
+   "daysLeft": null,
+   "status": "unverified",
+   "eligibility": [
+    "African / global startups (per directory)"
+   ],
+   "note": "No public information found — verify directly on the program page before relying on it"
+  },
+  {
+   "id": 2,
+   "name": "TSC Incubator Program",
+   "regions": [
+    "Africa",
+    "Global"
+   ],
+   "country": null,
+   "benefits": "Incubation support & resources",
+   "url": "https://thescathgroup.univer.se/incubator",
+   "type": "incubator",
+   "amount": null,
+   "deadline": null,
+   "daysLeft": null,
+   "status": "unverified",
+   "eligibility": [
+    "African / global startups (per directory)"
+   ],
+   "note": "No public information found — verify directly on the program page before relying on it"
+  },
+  {
+   "id": 3,
+   "name": "Moniepoint Inc. Women in Tech Internship Programme 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "Paid tech internship & mentorship",
+   "url": "https://womenintech.moniepoint.com",
+   "type": "internship",
+   "amount": null,
+   "deadline": "2026-04-04",
+   "daysLeft": -91,
+   "status": "closed",
+   "eligibility": [
+    "Women and non-binary people",
+    "Young African, eligible to work in their location",
+    "Interest/foundation in cybersecurity, engineering, data, product, QA or SRE tracks",
+    "Available full-time for 6-month virtual internship"
+   ],
+   "note": "Paid 6-month internship; 15 places, 2026 cohort closed Apr 4"
+  },
+  {
+   "id": 4,
+   "name": "SAP Young Professionals Program 2026 for Young Africans",
+   "regions": [
+    "Africa"
+   ],
+   "country": null,
+   "benefits": "Free training & SAP certifications",
+   "url": "https://jobs.sap.com/search/?createNewAlert=false&q=SAP+Young+Professionals+Program&locationsearch&optionsFacetsDD_department&optionsFacetsDD_customfield3&optionsFacetsDD_country",
+   "type": "training",
+   "amount": null,
+   "deadline": null,
+   "daysLeft": null,
+   "status": "rolling",
+   "eligibility": [
+    "Citizen of an African country",
+    "Graduated within past 1–2 years (diploma/bachelor's/master's)",
+    "Degree in CS, IT, engineering, business, finance or related",
+    "Fluent English",
+    "Currently unemployed or in non-permanent role"
+   ],
+   "note": "Openings per country (Nigeria, Kenya, South Africa…) with varying dates — check SAP jobs portal"
+  },
+  {
+   "id": 5,
+   "name": "African Union Youth Volunteer Corps (AU-YVC) 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": null,
+   "benefits": "Full scholarships, monthly stipend, & accommodation",
+   "url": "https://jobs.au.int/job/African-Union-Youth-Volunteer-Corps-%28AU-YVC%29/2949-en_US",
+   "type": "fellowship",
+   "amount": null,
+   "deadline": "2026-04-26",
+   "daysLeft": -69,
+   "status": "closed",
+   "eligibility": [
+    "Citizen of an AU member state (continent or diaspora)",
+    "Aged 18–35",
+    "Post-secondary qualification",
+    "Willing to serve 12 months in another AU state",
+    "One AU working language",
+    "1yr volunteering + 1yr work experience"
+   ],
+   "note": "13th cohort closed Apr 26, 2026; annual call each ~March"
+  },
+  {
+   "id": 6,
+   "name": "LSETF Female Founders & Funders Program 3.0",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "Mentorship, investor readiness, & network access",
+   "url": "https://lagosinnovates.ng/female-founders-funders/",
+   "type": "accelerator",
+   "amount": null,
+   "deadline": "2026-04-04",
+   "daysLeft": -91,
+   "status": "closed",
+   "eligibility": [
+    "Early-stage tech-enabled startup",
+    "At least one female founder",
+    "Based in Lagos, Nigeria"
+   ],
+   "note": "Cohort 3 closed Apr 2026; watch LSETF/Lagos Innovates for cohort 4"
+  },
+  {
+   "id": 7,
+   "name": "Startup Innovation Challenge 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "Over ₦100 Million in prizes",
+   "url": "https://startupabuja.com.ng/innovation-challenge",
+   "type": "competition",
+   "amount": "₦10M 1st prize (₦100M+ total pool incl. AWS credits)",
+   "deadline": "2026-05-31",
+   "daysLeft": -34,
+   "status": "closed",
+   "eligibility": [
+    "Startups, SMEs and tech innovators in Nigeria",
+    "Nigerians, other Africans, or anyone building for the African market",
+    "Sectors: EduTech, HealthTech, FinTech, AgroTech, Web3, e-commerce, SaaS, logistics, real estate"
+   ],
+   "note": "Closed 31 May 2026; organized by Startup Abuja with AWS"
+  },
+  {
+   "id": 8,
+   "name": "SACREEE 2026 Capacity-Building Programme for Women Energy Entrepreneurs",
+   "regions": [
+    "Africa"
+   ],
+   "country": "SADC Region",
+   "benefits": "Capacity building & clean energy mentorship",
+   "url": "https://www.sacreee.org/opportunity/call-applications-second-cohort-capacity-building-programme-women-energy-entrepreneurs",
+   "type": "training",
+   "amount": null,
+   "deadline": "2026-04-03",
+   "daysLeft": -92,
+   "status": "closed",
+   "eligibility": [
+    "Identify as a woman",
+    "SADC nationality",
+    "Women-led energy enterprise"
+   ],
+   "note": "2nd cohort closed Apr 3; 6-month virtual programme, ~8h/month"
+  },
+  {
+   "id": 9,
+   "name": "Bet9ja Foundation ScaleUp Business Accelerator 2.0",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "Up to ₦3 Million grant",
+   "url": "https://app.bet9jafoundation.org/login",
+   "type": "accelerator",
+   "amount": "Up to ₦3,000,000 (winner ₦5M)",
+   "deadline": "2026-04-30",
+   "daysLeft": -65,
+   "status": "closed",
+   "eligibility": [
+    "Nigerian entrepreneurs",
+    "Existing business ready to scale"
+   ],
+   "note": "10-week accelerator + Demo Night; cohort 2 closed Apr 30"
+  },
+  {
+   "id": 10,
+   "name": "AfCFTA African Agribusiness SME Matchmaking Program 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": null,
+   "benefits": "Agribusiness B2B matchmaking & market access",
+   "url": "https://surveys.intracen.org/response/G2tIYnRbRwsEYVR_X1R9S0d6cno",
+   "type": "program",
+   "amount": null,
+   "deadline": "2026-04-06",
+   "daysLeft": -89,
+   "status": "closed",
+   "eligibility": [
+    "Export-ready agribusiness SME in Africa",
+    "Agriculture or food value chain",
+    "Women- and youth-led businesses encouraged"
+   ],
+   "note": "Market access + matchmaking incl. Swiss market; closed Apr 6"
+  },
+  {
+   "id": 11,
+   "name": "GEC+Africa Nigeria Regional Pitch Competition",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "Pitching platform & global ecosystem access",
+   "url": "https://gecafrica.co/regional-pitch-competition/",
+   "type": "competition",
+   "amount": null,
+   "deadline": null,
+   "daysLeft": null,
+   "status": "closed",
+   "eligibility": [
+    "Nigerian startups"
+   ],
+   "note": "Nigerian edition concluded — top 3 selected for GEC+Africa Cape Town; watch GEN Nigeria for next cycle"
+  },
+  {
+   "id": 12,
+   "name": "One Young World Sandoz Scholarship 2026",
+   "regions": [
+    "Global"
+   ],
+   "country": null,
+   "benefits": "Fully funded summit attendance (flights, visa, housing)",
+   "url": "https://www.oneyoungworld.com/scholarship/sandoz-scholarship-2026",
+   "type": "scholarship",
+   "amount": null,
+   "deadline": "2026-04-27",
+   "daysLeft": -68,
+   "status": "closed",
+   "eligibility": [
+    "Aged 18–30 (exceptions above 30 considered)",
+    "Any nationality",
+    "Leadership in healthcare innovation or access"
+   ],
+   "note": "Fully funded delegate spot at One Young World Summit"
+  },
+  {
+   "id": 13,
+   "name": "DTH-Lab Fully Remote Fellowship Program 2026",
+   "regions": [
+    "Global"
+   ],
+   "country": null,
+   "benefits": "$1,250 Stipend & digital health advocacy",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSf80m7F7doRDIpf8s3wke2UuDngn231d48Y20_K_4wFiMjD5g/viewform?usp=header",
+   "type": "fellowship",
+   "amount": "Stipend up to $1,800",
+   "deadline": "2026-04-12",
+   "daysLeft": -83,
+   "status": "closed",
+   "eligibility": [
+    "Student or early-career researcher",
+    "Aged 30 or under",
+    "Based in a low/middle-income country"
+   ],
+   "note": "5-month fully remote digital-health research fellowship, May–Oct 2026"
+  },
+  {
+   "id": 14,
+   "name": "GSMA Innovation Fund for Green Transition for Mobile 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": null,
+   "benefits": "£100,000–£200,000 grants for climate tech startups",
+   "url": "https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/gsma-innovation-fund/the-gsma-innovation-fund-for-green-transition-for-mobile/",
+   "type": "grant",
+   "amount": null,
+   "deadline": "2026-04-06",
+   "daysLeft": -89,
+   "status": "closed",
+   "eligibility": [
+    "For-profit small/growing enterprise",
+    "Operating in LMICs (Africa, Central/South America, South/Southeast Asia)",
+    "Digital inclusion + clean energy or device circularity",
+    "25% matching contribution required"
+   ],
+   "note": "Closed 6 Apr 2026, 23:59 UK time"
+  },
+  {
+   "id": 15,
+   "name": "MTN Y’ellopreneur Grant 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "Up to ₦5 Million business funding for women",
+   "url": "https://www.mtn.ng/foundation/yellopreneur/",
+   "type": "grant",
+   "amount": "Up to ₦5,000,000",
+   "deadline": "2026-04-20",
+   "daysLeft": -75,
+   "status": "closed",
+   "eligibility": [
+    "Female entrepreneur resident in Nigeria",
+    "Owns and actively manages the business",
+    "Business operating ≥2 years",
+    "Eligible sectors incl. agriculture, energy, fashion, ICT, food processing, manufacturing"
+   ],
+   "note": "Trains 1,000 women; grant + equipment loan stages"
+  },
+  {
+   "id": 16,
+   "name": "Agribusiness Facility for Africa e-Academy 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": null,
+   "benefits": "€2,000 prize, laptop, and mentorship",
+   "url": "https://www.agribusiness-facility.org/funding.html",
+   "type": "competition",
+   "amount": "€2,000 + laptop/tablet + mentoring",
+   "deadline": "2026-05-31",
+   "daysLeft": -34,
+   "status": "closed",
+   "eligibility": [
+    "Aged 18+",
+    "Based in an OACPS member state",
+    "Agribusiness idea in cocoa, maize, cashew or livestock",
+    "Must complete 3 free atingi courses first"
+   ],
+   "note": "Window 2 closed 31 May; winners announced end of Sept 2026 — watch for next window"
+  },
+  {
+   "id": 17,
+   "name": "FINCA Ventures Prize Competition 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": null,
+   "benefits": "Up to $100,000 grant for impactful social enterprises",
+   "url": "https://fincaventures.awardsplatform.com/page/noEevdyw",
+   "type": "grant",
+   "amount": null,
+   "deadline": "2026-04-16",
+   "daysLeft": -79,
+   "status": "closed",
+   "eligibility": [
+    "At least one African founder",
+    "For-profit and post-revenue",
+    "Operating ≤5 years",
+    "Active in Sub-Saharan Africa",
+    "Sustainable agriculture/food systems or fintech for inclusion"
+   ],
+   "note": "Finalists pitch in San Francisco (travel covered)"
+  },
+  {
+   "id": 18,
+   "name": "Federal Government Free Upskilling Program for 10M Youths",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "Free tech and vocational digital skills training",
+   "url": "https://wawuafrica.com/onboarding",
+   "type": "training",
+   "amount": null,
+   "deadline": null,
+   "daysLeft": null,
+   "status": "open",
+   "eligibility": [
+    "Nigerian youths and women",
+    "NIN or BVN required for verification"
+   ],
+   "note": "FG/PreCEFI free upskilling via WAWU Africa + Alison; ongoing rolling registration"
+  },
+  {
+   "id": 19,
+   "name": "Mastercard Foundation Associates Program 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": null,
+   "benefits": "12-Month paid professional internship",
+   "url": "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-associates-program/",
+   "type": "internship",
+   "amount": null,
+   "deadline": "2026-06-19",
+   "daysLeft": -15,
+   "status": "closed",
+   "eligibility": [
+    "Young African graduates",
+    "Across 22 African countries",
+    "12-month placements with partner organizations"
+   ],
+   "note": "Talent applications closed 19 Jun 2026, but roles post on a rolling basis — new positions open through the year"
+  },
+  {
+   "id": 20,
+   "name": "CFYE x Shecluded Incubator Programme Cohort 9",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "Up to ₦1 Million grant and business incubator access",
+   "url": "https://forms.gle/qQsFz67pB5P22ta69",
+   "type": "incubator",
+   "amount": "Up to ₦1,000,000 grant",
+   "deadline": null,
+   "daysLeft": null,
+   "status": "open",
+   "eligibility": [
+    "Women with business ideas or early-stage ventures",
+    "Based in Nigeria"
+   ],
+   "note": "Cohort 9 accepting applications as of mid-2026; no published deadline — apply early"
+  },
+  {
+   "id": 21,
+   "name": "SDGs Youth Public Policy Innovation Challenge 2026",
+   "regions": [
+    "Global"
+   ],
+   "country": null,
+   "benefits": "Policy design hackathon & leadership recognition",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSedwTYvgjWobc2LbXNDhK7Qgv911D3Tvpx1kAUCy6a-se14WQ/viewform",
+   "type": "competition",
+   "amount": null,
+   "deadline": "2026-04-15",
+   "daysLeft": -80,
+   "status": "closed",
+   "eligibility": [
+    "Youth worldwide",
+    "Policy/research/AI-driven solutions on cultural diversity"
+   ],
+   "note": "Fully funded exchanges in Beijing & Suzhou; UN internship recommendations for winners"
+  },
+  {
+   "id": 22,
+   "name": "Women in DeFi Summit Laptop Scholarship 2026",
+   "regions": [
+    "Global"
+   ],
+   "country": null,
+   "benefits": "Free laptop and specialized Web3 mentorship",
+   "url": "https://womenindefi.org/programs/initiatives",
+   "type": "scholarship",
+   "amount": null,
+   "deadline": "2026-04-15",
+   "daysLeft": -80,
+   "status": "closed",
+   "eligibility": [
+    "Female applicants from any African country",
+    "Must attend WID Summit in Lagos (Apr 26) to receive laptop",
+    "Valid ID required"
+   ],
+   "note": "Laptops awarded at the Lagos summit; watch for 2027 edition"
+  },
+  {
+   "id": 23,
+   "name": "Standard Chartered Foundation Women in Tech Accelerator 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Ghana",
+   "benefits": "Up to $10,000 funding & acceleration training",
+   "url": "https://scwomenintechgh.com/programme/",
+   "type": "accelerator",
+   "amount": null,
+   "deadline": "2026-03-31",
+   "daysLeft": -95,
+   "status": "closed",
+   "eligibility": [
+    "Ghanaian women owning ≥50% of a registered business",
+    "Business operational ≥12 months",
+    "Tech or innovation in product/service",
+    "Women with disabilities encouraged"
+   ],
+   "note": "Cohort 6 ran Apr–Aug 2026 with Village Capital; annual call ~Feb/Mar"
+  },
+  {
+   "id": 24,
+   "name": "General Ibrahim Attahiru Foundation",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "Full academic scholarship + educational",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdGOUKEgB9cVjQjlPvtO9IGup-jSApxB1-Y-BimiM9nqOVhLg/viewform",
+   "type": "scholarship",
+   "amount": "Full scholarship for Nigerian universities",
+   "deadline": null,
+   "daysLeft": null,
+   "status": "open",
+   "eligibility": [
+    "Dependants of serving, retired or deceased Nigerian Army personnel",
+    "Strong O-level and JAMB results",
+    "All six geopolitical zones considered"
+   ],
+   "note": "GIAF scholarship; no published deadline — apply early"
+  },
+  {
+   "id": 25,
+   "name": "L’Oréal–UNESCO For Women in Science Sub-Saharan Africa Program",
+   "regions": [
+    "Africa"
+   ],
+   "country": null,
+   "benefits": "Up to €15,000 research funding for female scientists",
+   "url": "https://www.forwomeninscience.com/challenge/show/157",
+   "type": "grant",
+   "amount": "€10,000 (PhD) / €15,000 (postdoc)",
+   "deadline": "2026-05-15",
+   "daysLeft": -50,
+   "status": "closed",
+   "eligibility": [
+    "Woman scientist, citizen of a Sub-Saharan African country",
+    "Researching in a Sub-Saharan institution",
+    "PhD year 2+ or postdoc (thesis after Feb 2021)",
+    "STEM fields"
+   ],
+   "note": "25 doctoral + 5 postdoc awards; annual call"
+  },
+  {
+   "id": 26,
+   "name": "Flourish Africa Business Program 2026 (Cohort 5)",
+   "regions": [
+    "Africa"
+   ],
+   "country": null,
+   "benefits": "Share of ₦1.3 Billion in grants & business training",
+   "url": "https://oms.flourishafrica.com/auth/signup",
+   "type": "grant",
+   "amount": "Share of ₦1.3 billion pool",
+   "deadline": "2026-04-12",
+   "daysLeft": -83,
+   "status": "closed",
+   "eligibility": [
+    "Female entrepreneur aged 18–50",
+    "Business operational ≥12 months",
+    "Based in Abuja, Lagos or Port Harcourt",
+    "First-time applicants only",
+    "≥51% ownership if co-owned with a man"
+   ],
+   "note": "Cohort 5 closed Apr 12; training + mentorship + grants"
+  },
+  {
+   "id": 27,
+   "name": "Sundry Markets MSMEs Growth Pitch Challenge 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "₦10 Million in growth business grants",
+   "url": "https://sundrymarkets.com/pitchchallenge/",
+   "type": "competition",
+   "amount": "₦10M pool (top prize ₦5M)",
+   "deadline": "2026-03-29",
+   "daysLeft": -97,
+   "status": "closed",
+   "eligibility": [
+    "Nigerian entrepreneurs producing grocery/consumable products",
+    "Retail-ready businesses"
+   ],
+   "note": "Concluded — winners awarded Apr 8, 2026"
+  },
+  {
+   "id": 28,
+   "name": "Girl Up Ubuntu Leaders Africa Program 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": null,
+   "benefits": "Global leadership network, training, and mentorship",
+   "url": "https://forms.office.com/pages/responsepage.aspx?id=BNZxlPhtcUmVoUZVDsUrC3DDULz7B4tDnxYbPM1pX4lUOEo4V0U4VlBNQzBJMElHVE1OV09HMFJNUi4u&route=shorturl",
+   "type": "fellowship",
+   "amount": null,
+   "deadline": null,
+   "daysLeft": null,
+   "status": "unverified",
+   "eligibility": [
+    "Young women leaders in Africa (Kenya & Nigeria emphasized)"
+   ],
+   "note": "No published deadline found — check Girl Up channels before applying"
+  },
+  {
+   "id": 29,
+   "name": "GITEX Africa 2026 Supernova Challenge",
+   "regions": [
+    "Africa",
+    "Global"
+   ],
+   "country": null,
+   "benefits": "$100,000 global startup pitch prize",
+   "url": "https://gitexafrica.com/register-to-vist-2026.html",
+   "type": "competition",
+   "amount": "$100,000 pool ($50k champion)",
+   "deadline": "2026-02-27",
+   "daysLeft": -127,
+   "status": "closed",
+   "eligibility": [
+    "Early-stage, tech-driven African startups",
+    "Must exhibit at GITEX Africa (Marrakech)",
+    "Fintech, agritech, AI, mobility, cybersecurity, edtech, sportstech"
+   ],
+   "note": "2026 edition closed Feb 27; annual — 2027 call expected ~Dec/Jan"
+  },
+  {
+   "id": 30,
+   "name": "UNDP Pan-African Incubation Programme for AgriTech Startups",
+   "regions": [
+    "Africa"
+   ],
+   "country": null,
+   "benefits": "Pan-African incubator access, tech support & network",
+   "url": "https://www.undp.org/ghana/press-releases/call-applications-join-pan-african-incubation-programme-agritech-startups",
+   "type": "incubator",
+   "amount": null,
+   "deadline": "2026-07-31",
+   "daysLeft": 27,
+   "status": "open",
+   "eligibility": [
+    "African AgriTech startups",
+    "Climate-smart agriculture, agri-finance, market access, supply chain, food processing",
+    "Women-led and youth founders encouraged"
+   ],
+   "note": "UNDP timbuktoo AgriTech Hub (Ghana); deadline extended from Apr 27 to Jul 31, 2026"
+  },
+  {
+   "id": 31,
+   "name": "BeautyHutAfrica Women’s Grant 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": null,
+   "benefits": "Up to ₦6 Million beauty sector business funding",
+   "url": "https://grant.beautyhutafrica.com",
+   "type": "grant",
+   "amount": "₦3M / ₦2M / ₦1M (top 3)",
+   "deadline": "2026-03-20",
+   "daysLeft": -106,
+   "status": "closed",
+   "eligibility": [
+    "Female-led beauty businesses in Nigeria"
+   ],
+   "note": "2nd edition concluded — winners announced Apr 11, 2026"
+  },
+  {
+   "id": 32,
+   "name": "UpGreyedHer 2026 Funding Programme",
+   "regions": [
+    "Global"
+   ],
+   "country": null,
+   "benefits": "Up to $5,000 in equity-free funding for female founders",
+   "url": "https://grey.co/upgreyedher",
+   "type": "grant",
+   "amount": "$5,000 / $3,000 / $2,000 equity-free",
+   "deadline": "2026-04-20",
+   "daysLeft": -75,
+   "status": "closed",
+   "eligibility": [
+    "Female entrepreneurs aged 23–40",
+    "Africa, Middle East, SE Asia, Europe, LatAm, UK or US",
+    "Full or ≥50% ownership of registered tech-enabled business",
+    "Operational ≥3 years"
+   ],
+   "note": "3rd edition winners announced Jul 2, 2026; annual"
+  },
+  {
+   "id": 33,
+   "name": "WTO Young Trade Leaders Programme 2026",
+   "regions": [
+    "Global"
+   ],
+   "country": null,
+   "benefits": "Global trade policy training & professional exposure",
+   "url": "https://www.wto.org/english/news_e/news26_e/ytl_16mar26_313_e.htm",
+   "type": "fellowship",
+   "amount": null,
+   "deadline": "2026-05-01",
+   "daysLeft": -64,
+   "status": "closed",
+   "eligibility": [
+    "Aged 18–28",
+    "Citizen of a WTO member country",
+    "Good written/spoken English",
+    "Full commitment Jul 2026–Jun 2027"
+   ],
+   "note": "One-year programme; 2-min video + 300-word essay required"
+  },
+  {
+   "id": 34,
+   "name": "SDGs Campus Drive Cohort 1",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "Sustainable development training for students",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfi3XIQo2jPEq0zXRTPGbpXRV03EmfivPQObR7t21uHQtHrSg/viewform",
+   "type": "program",
+   "amount": null,
+   "deadline": "2026-04-15",
+   "daysLeft": -80,
+   "status": "closed",
+   "eligibility": [
+    "Undergraduate/postgraduate students at Nigerian tertiary institutions",
+    "Individuals or teams with an SDG-aligned campus/community project idea"
+   ],
+   "note": "Youth Movement for SDGs; cohort 1 closed Apr 15, 2026"
+  },
+  {
+   "id": 35,
+   "name": "Africa Economic Scholars Programme (AESP) 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": null,
+   "benefits": "Advanced research support and economic fellowships",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScvlGpbhIq6ElMQamDXhP3Qri_9EXqzlqumHyK85ydtbwFuxQ/viewform",
+   "type": "fellowship",
+   "amount": null,
+   "deadline": "2026-04-19",
+   "daysLeft": -76,
+   "status": "closed",
+   "eligibility": [
+    "Nationals/residents of Nigeria, Ghana, Kenya or South Africa",
+    "Economics, political science or related social science",
+    "Final-year undergrad or recent graduate (2025+)",
+    "First Class or 2:1"
+   ],
+   "note": "4th cohort: 2-month research/policy training + possible think-tank internship"
+  },
+  {
+   "id": 36,
+   "name": "CleanAce Apprenticeship Program 2026 For",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "Vocational skill transfer and structural",
+   "url": "https://clickncarts.wixforms.com/f/7430539342428243071",
+   "type": "training",
+   "amount": "Free feeding + accommodation + certificate",
+   "deadline": "2026-04-16",
+   "daysLeft": -79,
+   "status": "closed",
+   "eligibility": [
+    "Nigerian youths aged 18–35",
+    "Minimum JSS3 certificate",
+    "Open to production environment work"
+   ],
+   "note": "1-year fabricare apprenticeship; classes began Apr 25, 2026"
+  },
+  {
+   "id": 37,
+   "name": "Digital Innovation Fund for Energy and Climate (DIFEC) 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": null,
+   "benefits": "Renewable energy grants up to $400,000",
+   "url": "https://www.aecfafrica.org/approach/our-programmes/renewable-energy/react-2-0-regional-digital-innovation-fund-for-energy-climate-programme-difec/",
+   "type": "grant",
+   "amount": "$150k–$400k non-repayable, milestone-based",
+   "deadline": "2026-04-16",
+   "daysLeft": -79,
+   "status": "closed",
+   "eligibility": [
+    "Private companies with commercially viable digital energy/climate solutions",
+    "Operating in Sub-Saharan Africa",
+    "NGOs only in partnership with private lead"
+   ],
+   "note": "AECF REACT 2.0 DIFEC; 3-year programme 2026–2028 — more windows likely"
+  },
+  {
+   "id": 38,
+   "name": "Google Summer of Code 2026",
+   "regions": [
+    "Global"
+   ],
+   "country": null,
+   "benefits": "Up to $6,000 tech stipend, training, & mentorship",
+   "url": "https://summerofcode.withgoogle.com",
+   "type": "program",
+   "amount": "Paid stipend",
+   "deadline": "2026-03-31",
+   "daysLeft": -95,
+   "status": "closed",
+   "eligibility": [
+    "Open-source contributors 18+, worldwide",
+    "Proposal to a participating org required"
+   ],
+   "note": "2026 contributor apps closed Mar 31; coding May–Aug. Annual — 2027 apps open ~March"
+  },
+  {
+   "id": 39,
+   "name": "Airtel-3MTT NextGen Fellowship Program 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "Next-generation digital upskilling & tech placement",
+   "url": "https://nextgen.3mttnigeria.com",
+   "type": "fellowship",
+   "amount": null,
+   "deadline": null,
+   "daysLeft": null,
+   "status": "open",
+   "eligibility": [
+    "Nigerian youths",
+    "Free tech training tracks via 3MTT"
+   ],
+   "note": "No fixed deadline published; capacity-limited — apply early at nextgen.3mttnigeria.com"
+  },
+  {
+   "id": 40,
+   "name": "DigitalforHer Impact Award 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "₦2,000,000 tech impact financial support for women",
+   "url": "https://miladdigiville.com/digitalforher-impact-award/",
+   "type": "award",
+   "amount": "₦2,000,000 digital transformation package",
+   "deadline": "2026-04-17",
+   "daysLeft": -78,
+   "status": "closed",
+   "eligibility": [
+    "Women/girls-focused initiatives in Nigeria",
+    "Measurable demonstrable impact",
+    "Evidence of consistent community work",
+    "Ready to leverage digital tools"
+   ],
+   "note": "Package: website, brand identity, automation — not cash"
+  },
+  {
+   "id": 41,
+   "name": "iDICE Founders Lab Programme 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "Up to ₦7 Million in non-equity early-stage funding",
+   "url": "https://startupbridge.ng",
+   "type": "incubator",
+   "amount": "Up to ₦10,000,000 grant",
+   "deadline": "2026-07-26",
+   "daysLeft": 22,
+   "status": "open",
+   "eligibility": [
+    "Nigerian entrepreneurs aged 18–35",
+    "Tech-enabled business at idea or validation stage",
+    "Any of the 36 states + FCT",
+    "Full commitment to 12-week programme + Demo Day"
+   ],
+   "note": "Founders Lab Cohort 2 — open until Jul 26, 2026"
+  },
+  {
+   "id": 42,
+   "name": "BBDYI National Essay Competition 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "Win up to ₦1 Million cash prize",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeI6dfzuw6K920YQh_BYWZrjyXy_9CEa4gf4Iw5tvR7dmg_8A/viewform",
+   "type": "competition",
+   "amount": "₦400k / ₦300k / ₦200k + ₦100k for top 10",
+   "deadline": "2026-04-15",
+   "daysLeft": -80,
+   "status": "closed",
+   "eligibility": [
+    "Students at Nigerian tertiary institutions",
+    "Aged 18–30 with valid student ID",
+    "AI literacy essay topic"
+   ],
+   "note": "Closed Apr 15, 2026, 10:00 WAT"
+  },
+  {
+   "id": 43,
+   "name": "AFRISE Challenge 2026 Startup Accelerator",
+   "regions": [
+    "Africa"
+   ],
+   "country": null,
+   "benefits": "Access to $600,000+ in cloud & technology credits",
+   "url": "https://hindsightventures.co/flagship-programs/afrise-challenge-2026",
+   "type": "accelerator",
+   "amount": "$600,000+ in tech credits",
+   "deadline": "2026-03-27",
+   "daysLeft": -99,
+   "status": "closed",
+   "eligibility": [
+    "African youth aged 18–35",
+    "Nigeria, Uganda, Morocco, Kenya, Rwanda, Ghana, Côte d'Ivoire, Senegal",
+    "Scalable market solution"
+   ],
+   "note": "4-week virtual bootcamp + Global Demo Day; with Concordia University"
+  },
+  {
+   "id": 44,
+   "name": "For Creative Girls Mentorship Program 2026",
+   "regions": [
+    "Global"
+   ],
+   "country": null,
+   "benefits": "Global mentorship for women in the creative space",
+   "url": "https://forcreativegirls.com/mentorship-2026/",
+   "type": "mentorship",
+   "amount": null,
+   "deadline": "2026-04-07",
+   "daysLeft": -88,
+   "status": "closed",
+   "eligibility": [
+    "Emerging female creatives worldwide"
+   ],
+   "note": "2-month program started Apr 20; annual intake each ~March"
+  },
+  {
+   "id": 45,
+   "name": "IFAD Internship Program 2026",
+   "regions": [
+    "Global"
+   ],
+   "country": null,
+   "benefits": "Paid internship with international agriculture fund",
+   "url": "https://job.ifad.org",
+   "type": "internship",
+   "amount": null,
+   "deadline": null,
+   "daysLeft": null,
+   "status": "rolling",
+   "eligibility": [
+    "Aged 30 or younger",
+    "Enrolled in university (2+ years completed) or graduated within last 24 months",
+    "Good English",
+    "Any nationality",
+    "No close relatives at IFAD"
+   ],
+   "note": "Paid; rolling intake — positions fill fast; higher allowance for interns from developing countries"
+  },
+  {
+   "id": 46,
+   "name": "Women in Fashion Tech (WIFT) Accelerator 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": null,
+   "benefits": "Fashion-tech training & business scaling tools",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScu90nXL3DSKgMbpq698-owW2V6kcyNeMM9U-EMoTxNVGG5eQ/viewform?usp=dialog",
+   "type": "accelerator",
+   "amount": null,
+   "deadline": null,
+   "daysLeft": null,
+   "status": "unverified",
+   "eligibility": [
+    "Women in fashion tech / garment SMEs in Africa (per directory)"
+   ],
+   "note": "WiFT Nigeria — no published 2026 deadline found; verify via womeninfashiontech.org before relying"
+  },
+  {
+   "id": 47,
+   "name": "WIBG 2026 Interest Fellowship",
+   "regions": [
+    "Global"
+   ],
+   "country": null,
+   "benefits": "Strategic industry placement and mentorship",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfRJI7Uix22Ebw-gm90pxnN69uVXzs1kvtIFeMSkJb2BRoBHg/viewform",
+   "type": "fellowship",
+   "amount": null,
+   "deadline": null,
+   "daysLeft": null,
+   "status": "unverified",
+   "eligibility": [
+    "Women in business (per directory)"
+   ],
+   "note": "No public information found for WIBG 2026 Interest Fellowship — treat with caution; verify via the application form"
+  },
+  {
+   "id": 48,
+   "name": "Nestlé YOUth Entrepreneurship Mentorship Program 2026",
+   "regions": [
+    "Global"
+   ],
+   "country": null,
+   "benefits": "Global corporate mentorship & career masterclasses",
+   "url": "https://www.nestleyouthentrepreneurship.com/events/nestle-needs-youth-mentorship-2026",
+   "type": "mentorship",
+   "amount": null,
+   "deadline": "2026-04-10",
+   "daysLeft": -85,
+   "status": "closed",
+   "eligibility": [
+    "Young professionals aged 18–30",
+    "Asia, Africa and Oceania",
+    "Recent graduates to mid-management"
+   ],
+   "note": "6-month 1:1 mentorship with Nestlé leaders, May–Oct 2026"
+  },
+  {
+   "id": 49,
+   "name": "Kuda For Her Pitch",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "Pitch presentation event & funding for women founders",
+   "url": "https://kuda.com/kuda-for-her",
+   "type": "competition",
+   "amount": null,
+   "deadline": null,
+   "daysLeft": null,
+   "status": "unverified",
+   "eligibility": [
+    "Women entrepreneurs in Nigeria (per directory)"
+   ],
+   "note": "No public deadline found — check kuda.com/kuda-for-her directly"
+  },
+  {
+   "id": 50,
+   "name": "Microsoft Elevate AI Developers Training 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "Free AI technical training & formal certification",
+   "url": "https://datasciencenigeria.org/microsoft-elevate-ai-developers-training/",
+   "type": "training",
+   "amount": null,
+   "deadline": null,
+   "daysLeft": null,
+   "status": "open",
+   "eligibility": [
+    "Developers in Nigeria",
+    "Interest in AI application development"
+   ],
+   "note": "Free 4-week Microsoft certification program with DSN + 3MTT; rolling selection, limited seats — apply early"
+  },
+  {
+   "id": 51,
+   "name": "ImpactHER Global African Women's Sustainability Grant",
+   "regions": [
+    "Africa",
+    "Global"
+   ],
+   "country": null,
+   "benefits": "Sustainability business grant for African women",
+   "url": "https://www.impacther.org",
+   "type": "grant",
+   "amount": "Up to $5,000",
+   "deadline": "2026-05-01",
+   "daysLeft": -64,
+   "status": "closed",
+   "eligibility": [
+    "Women-led enterprises in Africa or diaspora",
+    "Sustainability / green business focus"
+   ],
+   "note": "Tied to Sustainability Conference 2.0, Abuja Apr 29–May 1, 2026"
+  },
+  {
+   "id": 52,
+   "name": "InterswitchSPAK National Science Competition 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "Scholarships, laptops, & ₦15M annual stipends",
+   "url": "https://www.interswitchspak.com/country?cid=MQ%3D%3D&rId=1",
+   "type": "competition",
+   "amount": "₦40M+ in scholarships + laptops",
+   "deadline": "2026-05-22",
+   "daysLeft": -43,
+   "status": "closed",
+   "eligibility": [
+    "Year 11 (SS2) students in Nigeria",
+    "Aged 14–17",
+    "Registered through school (6–10 students per school)"
+   ],
+   "note": "SPAK 8.0 — CBT exams Jun 9–16; televised quiz finals"
+  },
+  {
+   "id": 53,
+   "name": "IVÓ WorkSmart Program Cohort 3",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Abuja",
+   "benefits": "Free soft skills training & career certification",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdmV3tBlnq1AASlFVyW1FXf8vAl8zknsBAr6plB7PtpyN4JxA/viewform",
+   "type": "training",
+   "amount": null,
+   "deadline": null,
+   "daysLeft": null,
+   "status": "unverified",
+   "eligibility": [
+    "Career professionals in Abuja, Nigeria (per directory)"
+   ],
+   "note": "Cohort 3 promoted via Instagram only; no published deadline — verify before relying"
+  },
+  {
+   "id": 54,
+   "name": "Ilorin Innovation Hub Entrepreneurship Training Programme",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "₦50 Million total cash prize + startup incentives",
+   "url": "https://learning.devbankng.com/register",
+   "type": "training",
+   "amount": "Access to ₦100M grant fund + ₦50M prizes; grants up to ₦3M",
+   "deadline": null,
+   "daysLeft": null,
+   "status": "open",
+   "eligibility": [
+    "Nigerian entrepreneurs (Ilorin Innovation Hub + DBN ETP 8.0)",
+    "Complete 11 structured courses"
+   ],
+   "note": "No published deadline — apply early at learning.devbankng.com"
+  },
+  {
+   "id": 55,
+   "name": "UNAOC–BMW Intercultural Innovation Hub 2026",
+   "regions": [
+    "Global"
+   ],
+   "country": null,
+   "benefits": "Up to $200,000 project growth grant and support fund",
+   "url": "https://interculturalinnovation.org",
+   "type": "grant",
+   "amount": null,
+   "deadline": "2026-04-15",
+   "daysLeft": -80,
+   "status": "closed",
+   "eligibility": [
+    "Non-profit organizations and social enterprises worldwide",
+    "Project advancing intercultural dialogue / social inclusion",
+    "≥1 year of demonstrated outcomes"
+   ],
+   "note": "UNAOC + BMW Group with Accenture; includes capacity-building + mentorship"
+  },
+  {
+   "id": 56,
+   "name": "OPEC Fund for International Development Internship 2026",
+   "regions": [
+    "Global"
+   ],
+   "country": null,
+   "benefits": "Paid developmental bank international internship",
+   "url": "https://careers.opecfund.org/job/Internship-Program-2026/1354387257",
+   "type": "internship",
+   "amount": "Monthly stipend + travel + insurance",
+   "deadline": "2026-04-12",
+   "daysLeft": -83,
+   "status": "closed",
+   "eligibility": [
+    "Aged 19–25",
+    "Undergrad (2+ years done), grad student, or graduated ≤1 year ago",
+    "Fluent English",
+    "All nationalities (OPEC Fund member countries encouraged, incl. Nigeria)"
+   ],
+   "note": "3–6 months in Vienna, Austria"
+  },
+  {
+   "id": 57,
+   "name": "Battery Pack Design and Manufacturing Training for Youth",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "Specialized clean tech engineering skill acquisition",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSe4fPsBIGFm9pNKUx8l9dQCFCMWtLYsmNPaZY2wcwXeefdPJw/viewform",
+   "type": "training",
+   "amount": null,
+   "deadline": null,
+   "daysLeft": null,
+   "status": "closed",
+   "eligibility": [
+    "Nigerian youth with strong interest in renewable energy",
+    "Must complete self-paced online module first"
+   ],
+   "note": "Celloop/CEID Hub training ran Mar 24–26, 2026 at University of Ibadan — watch for future editions"
+  },
+  {
+   "id": 58,
+   "name": "Katapult Africa Accelerator Cohort 3",
+   "regions": [
+    "Africa"
+   ],
+   "country": null,
+   "benefits": "High-growth impact climate-tech acceleration",
+   "url": "https://katapult.vc/africa/accelerator/",
+   "type": "accelerator",
+   "amount": "$150k–$500k equity investment",
+   "deadline": "2026-04-25",
+   "daysLeft": -70,
+   "status": "closed",
+   "eligibility": [
+    "Early-stage African startups",
+    "Climate tech, agritech or foodtech",
+    "Clean energy, mobility, circular economy, sustainable agriculture"
+   ],
+   "note": "90-day intensive program; cohort 3 closed Apr 25, 2026"
+  },
+  {
+   "id": 59,
+   "name": "TOCA Online Summer 2026 Free Virtual Language Program",
+   "regions": [
+    "Global"
+   ],
+   "country": null,
+   "benefits": "Free foreign language mastery (Arabic, Spanish, French)",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfFtYhs8mFXsjSOCiDVqRkTmyWHJ0nlEU_YZxqBQdYQBS4Xow/viewform",
+   "type": "training",
+   "amount": null,
+   "deadline": "2026-05-01",
+   "daysLeft": -64,
+   "status": "closed",
+   "eligibility": [
+    "U.S.-based high school students of color",
+    "Arabic, French or Spanish tracks"
+   ],
+   "note": "2026 cycle closed May 1; classes Jul 13–28; 2027 applications via newsletter"
+  },
+  {
+   "id": 60,
+   "name": "ACEP Africa Climate Academy 2026 for Energy Innovators",
+   "regions": [
+    "Africa"
+   ],
+   "country": null,
+   "benefits": "Fully funded climate tech intensive trip to Accra, Ghana",
+   "url": "https://acep.africa/about-the-africa-climate-academy/",
+   "type": "training",
+   "amount": null,
+   "deadline": "2026-03-22",
+   "daysLeft": -104,
+   "status": "closed",
+   "eligibility": [
+    "Policymakers, media, civil society, academia in Africa",
+    "Energy/climate focus"
+   ],
+   "note": "Fully funded 1-week academy in Accra; ACEP also runs FEC Innovation Challenge (closed May 31)"
+  },
+  {
+   "id": 61,
+   "name": "Lagos State Graduate Internship Placement Programme",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "Paid professional internship",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfZ85Z-Gn5ni7gvkS1Sg3LaQmiF9YfmJaK27f8ICwNwJR9QJw/viewform",
+   "type": "internship",
+   "amount": "Monthly stipend + certification",
+   "deadline": "2026-04-10",
+   "daysLeft": -85,
+   "status": "closed",
+   "eligibility": [
+    "Bachelor's degree, any discipline",
+    "NYSC completed",
+    "0–3 years work experience",
+    "Valid LASRRA card (Lagos resident)",
+    "New applicants only"
+   ],
+   "note": "Lagos State GIPP; closed Apr 10, 2026"
+  },
+  {
+   "id": 62,
+   "name": "Micsion Global Scholarship & Fellowship 2026",
+   "regions": [
+    "Global"
+   ],
+   "country": null,
+   "benefits": "$1,000 Financial academic award",
+   "url": "https://www.micsion.com",
+   "type": "scholarship",
+   "amount": null,
+   "deadline": "2026-04-06",
+   "daysLeft": -89,
+   "status": "closed",
+   "eligibility": [
+    "Students, recent graduates, young professionals, changemakers",
+    "Any country",
+    "Education, tech/AI, global health or advocacy focus"
+   ],
+   "note": "Winners announced May 6, 2026"
+  },
+  {
+   "id": 63,
+   "name": "Bayer Foundation Women Entrepreneurs Award 2026",
+   "regions": [
+    "Global"
+   ],
+   "country": null,
+   "benefits": "€25,000 Cash prize & global innovation exposure",
+   "url": "https://impacthub.acceleratorapp.co/apply/program/women-entrepreneurship-award-2026-by-bayer-foundation",
+   "type": "award",
+   "amount": "€25,000 non-dilutive + 6-month accelerator",
+   "deadline": "2026-04-13",
+   "daysLeft": -82,
+   "status": "closed",
+   "eligibility": [
+    "Women founders/co-founders/senior leaders with decision power",
+    "Health or food security ventures serving LMIC communities",
+    "Revenue ≤$1M or strong growth evidence",
+    "Social enterprise (charities/sole traders not eligible)"
+   ],
+   "note": "Awardee Days in Amsterdam Oct 26–30, 2026"
+  },
+  {
+   "id": 64,
+   "name": "Tiwa Savage Intensive Music Program 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": null,
+   "benefits": "Music industry development bootcamp for creatives",
+   "url": "https://tiwasavagemusicfoundation.org",
+   "type": "training",
+   "amount": null,
+   "deadline": "2026-03-20",
+   "daysLeft": -106,
+   "status": "closed",
+   "eligibility": [
+    "Emerging Nigerian/African music creators",
+    "Must cover own travel + accommodation in Lagos"
+   ],
+   "note": "Berklee faculty-led 4-day intensive, Lagos Apr 23–26, 2026; 100 places, fully funded tuition"
+  },
+  {
+   "id": 65,
+   "name": "NYDA Free Generative AI Training 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": "South Africa",
+   "benefits": "Accredited AI certificate program for youth",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSc2cWSSoYlUHFIN9wbaLjfaQUCdCCKiFJxLqwNzDVYXrh6zbQ/viewform",
+   "type": "training",
+   "amount": "Free + certificate",
+   "deadline": "2026-02-28",
+   "daysLeft": -126,
+   "status": "closed",
+   "eligibility": [
+    "Young South Africans",
+    "One-month online commitment"
+   ],
+   "note": "NYDA + Mentec Foundation + Accenture; closed Feb 28, 2026"
+  },
+  {
+   "id": 66,
+   "name": "Free CAC Registration for Businesses in Katsina State",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "Zero-cost official legal corporate incorporation",
+   "url": "https://cac.kasedaktsg.com",
+   "type": "program",
+   "amount": "Free CAC business registration",
+   "deadline": null,
+   "daysLeft": null,
+   "status": "open",
+   "eligibility": [
+    "Residents of Katsina State",
+    "Own or plan to start an MSME in the state",
+    "Business not already CAC-registered under same name"
+   ],
+   "note": "Via KASEDA portal; ongoing"
+  },
+  {
+   "id": 67,
+   "name": "NLNG Prize For Science: AI And Digital Innovation 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "$100,000 Scientific innovation grand prize",
+   "url": "https://www.thenigeriaprizes.org/?page_id=15384",
+   "type": "competition",
+   "amount": null,
+   "deadline": "2026-04-30",
+   "daysLeft": -65,
+   "status": "closed",
+   "eligibility": [
+    "Innovators, scientists, startups and teams worldwide",
+    "AI/ICT/digital solution addressing a Nigerian development challenge",
+    "Proof of concept required",
+    "One entry per contestant/group"
+   ],
+   "note": "The Nigeria Prize for Science 2026 — entries closed Apr 30"
+  },
+  {
+   "id": 68,
+   "name": "NLNG Nigeria Prize for Creative Arts 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "$20,000 Documentary filmmaking funding award",
+   "url": "https://www.thenigeriaprizes.org/?page_id=24278",
+   "type": "competition",
+   "amount": null,
+   "deadline": "2026-04-30",
+   "daysLeft": -65,
+   "status": "closed",
+   "eligibility": [
+    "Nigerian citizens aged 18–35 (any country of residence)",
+    "Short documentary ≤20 min on 'Identity', produced Apr 2024–Apr 2026",
+    "No AI-generated imagery/music"
+   ],
+   "note": "Inaugural Creative Arts prize; closed Apr 30, 2026"
+  },
+  {
+   "id": 69,
+   "name": "NYFF Youth Leadership Development Fund Grant 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "Up to $50,000 social impact deployment grant",
+   "url": "https://nigeriayouthfund.org/grants/",
+   "type": "grant",
+   "amount": "$1,000 (individual) / $10,000 (youth-led org)",
+   "deadline": "2026-03-31",
+   "daysLeft": -95,
+   "status": "closed",
+   "eligibility": [
+    "Nigerian youth and youth-led organizations",
+    "Governance, policy advocacy, electoral engagement, peacebuilding, inclusion"
+   ],
+   "note": "LEAP Africa + MacArthur/Ford/Luminate; grant cycle May–Dec 2026"
+  },
+  {
+   "id": 70,
+   "name": "CcHub–Mastercar d Foundation EdTech Fellowship 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": null,
+   "benefits": "$100,000 Equity-free funding for EdTech startups",
+   "url": "https://futureoflearning.cchub.africa/cohort-4/",
+   "type": "fellowship",
+   "amount": null,
+   "deadline": "2026-04-10",
+   "daysLeft": -85,
+   "status": "closed",
+   "eligibility": [
+    "Early-stage African edtech startups",
+    "Solutions for underserved learners"
+   ],
+   "note": "12 startups selected; 12-month incubation; cohort 4 closed Apr 10"
+  },
+  {
+   "id": 71,
+   "name": "Green Assist 2026",
+   "regions": [
+    "Europe"
+   ],
+   "country": null,
+   "benefits": "€3 Million total advisory support for green investments",
+   "url": "https://cinea.ec.europa.eu/news-events/news/green-assist-launches-new-call-projects-seeking-strengthen-their-green-investments-2026-02-23_en",
+   "type": "program",
+   "amount": "€3M advisory pool",
+   "deadline": "2026-06-19",
+   "daysLeft": -15,
+   "status": "closed",
+   "eligibility": [
+    "SMEs established in EU-27 or LIFE associated countries (Ukraine, Moldova, Iceland, North Macedonia, Montenegro)",
+    "Green investment projects; circular economy & bioeconomy emphasized"
+   ],
+   "note": "EU advisory services (not cash); extended deadline passed Jun 19, 2026"
+  },
+  {
+   "id": 72,
+   "name": "Mastercard Foundation FAST Program 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": null,
+   "benefits": "Up to $15,000 funding for network alumni",
+   "url": "https://mastercardfdn.org/en/what-we-do/our-programs/the-mastercard-foundation-fund-for-alumni-start-ups-in-transition-fast-program/",
+   "type": "grant",
+   "amount": null,
+   "deadline": "2026-03-20",
+   "daysLeft": -106,
+   "status": "closed",
+   "eligibility": [
+    "Alumni of Mastercard Foundation programmes",
+    "Currently operating an active business"
+   ],
+   "note": "Tiered: idea phase ~$3k, build phase ~$12.5k; closed Mar 20, 2026"
+  },
+  {
+   "id": 73,
+   "name": "The Plus Factor Grant Program",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "Up to ₦1,000,000 in non-dilutive business funding",
+   "url": "https://plusincubationhub.com/application.html",
+   "type": "grant",
+   "amount": "₦1,000,000 (1st) down to ₦100,000 (5th)",
+   "deadline": "2026-03-15",
+   "daysLeft": -111,
+   "status": "closed",
+   "eligibility": [
+    "Founder/co-founder of an African business or startup",
+    "Operational business or validated idea",
+    "Full participation in programme activities"
+   ],
+   "note": "Plus Incubation Hub; closed Mar 15, 2026"
+  },
+  {
+   "id": 74,
+   "name": "UniPods AI Solutions for African Program 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": null,
+   "benefits": "Fully funded 12-Month hardware/software AI journey",
+   "url": "https://weblab.t.u-tokyo.ac.jp/en/lecture/gci/",
+   "type": "training",
+   "amount": null,
+   "deadline": null,
+   "daysLeft": null,
+   "status": "upcoming",
+   "eligibility": [
+    "African university students",
+    "AI beginners to builders — starts with UTokyo GCI World online course"
+   ],
+   "note": "April 2026 intake closed; next GCI World intake expected Sept–Oct 2026"
+  },
+  {
+   "id": 75,
+   "name": "ImpactHER/AU African Women Sustainability Conference 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": null,
+   "benefits": "High-level regional ecosystem networking & trade tools",
+   "url": "https://bit.ly/4qJInES",
+   "type": "program",
+   "amount": null,
+   "deadline": "2026-05-01",
+   "daysLeft": -64,
+   "status": "closed",
+   "eligibility": [
+    "Women entrepreneurs, corporate leaders, investors and policymakers in Africa or diaspora"
+   ],
+   "note": "Same ImpactHER Sustainability Conference 2.0 (Abuja, Apr 29–May 1, 2026) as the grant entry — event has passed"
+  },
+  {
+   "id": 76,
+   "name": "AEDIB Joint Innovation Facility (JIF) 2026",
+   "regions": [
+    "Africa",
+    "Europe"
+   ],
+   "country": null,
+   "benefits": "Up to €200,000 non-dilutive digital venture funding",
+   "url": "https://jif.grantplatform.com",
+   "type": "grant",
+   "amount": "€100,000 or €200,000 non-dilutive",
+   "deadline": "2026-04-30",
+   "daysLeft": -65,
+   "status": "closed",
+   "eligibility": [
+    "Cross-border Africa–EU consortium led by African partner",
+    "Lead based in one of 14 AEDIB countries (incl. Nigeria, Ghana, Kenya, South Africa)",
+    "Revenue-generating, digitally enabled, climate-positive solution"
+   ],
+   "note": "EU/BMZ/Finland via GIZ; call ran Feb 10–Apr 30, 2026"
+  },
+  {
+   "id": 77,
+   "name": "Development Bank of Nigeria (DBN) Accelerator & ETP 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "Capacity building masterclasses, plus direct scale up grants",
+   "url": "https://learning.devbankng.com",
+   "type": "training",
+   "amount": "Free training + grants up to ₦1,000,000",
+   "deadline": null,
+   "daysLeft": null,
+   "status": "open",
+   "eligibility": [
+    "Nigerian MSMEs and small business owners"
+   ],
+   "note": "DBN Entrepreneurship Training Programme cycle 8 — applications open, no published deadline; via DBN BizAid LMS"
+  },
+  {
+   "id": 78,
+   "name": "WE (Women Entrepreneurs) Empower UN SDG Challenge 2026",
+   "regions": [
+    "Global"
+   ],
+   "country": null,
+   "benefits": "Global pitch stage access, mentorship & network",
+   "url": "https://globalfutures.asu.edu/we-empower/",
+   "type": "competition",
+   "amount": null,
+   "deadline": "2026-03-08",
+   "daysLeft": -118,
+   "status": "closed",
+   "eligibility": [
+    "Women entrepreneurs advancing SDGs",
+    "Business operating ≥3 years (as of Aug 2026)",
+    "≥3 full-time employees",
+    "Annual revenue ≥$75,000"
+   ],
+   "note": "5 regional awardees join UNGA/Climate Week NYC or Geneva; annual"
+  },
+  {
+   "id": 79,
+   "name": "Google for Startups Accelerator Africa 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": null,
+   "benefits": "3-Month hybrid accelerator with equity-free credits",
+   "url": "https://startup.google.com/programs/accelerator/africa/",
+   "type": "accelerator",
+   "amount": null,
+   "deadline": "2026-03-18",
+   "daysLeft": -108,
+   "status": "closed",
+   "eligibility": [
+    "Growth-stage, revenue-generating African tech startups",
+    "AI/ML in product or roadmap"
+   ],
+   "note": "Class 10 (Apr–Jun 2026) selected 15 from ~2,600 applicants; equity-free; annual cohorts"
+  },
+  {
+   "id": 80,
+   "name": "BOI x Bumpa Free 6-Month Digital Business Tools",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "Free enterprise premium infrastructure for tech management",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfc2VuMWEgBmk0uVU6fm92S95D7MWLIiBSrLHeQj8ftRM4KaA/viewform",
+   "type": "program",
+   "amount": "6 months of free Bumpa premium tools + training",
+   "deadline": null,
+   "daysLeft": null,
+   "status": "open",
+   "eligibility": [
+    "Youth-owned MSMEs in Nigeria",
+    "200 slots"
+   ],
+   "note": "Application window announced via BOI/Bumpa channels — check before relying"
+  },
+  {
+   "id": 81,
+   "name": "FG TVET Initiative Program for Trainers 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "Technical monthly stipend & institutional structural support",
+   "url": "https://www.digitalnbte.nbte.gov.ng/TVET/TVETApplication2",
+   "type": "program",
+   "amount": "₦45,000 monthly stipend per student trained + funding access",
+   "deadline": null,
+   "daysLeft": null,
+   "status": "open",
+   "eligibility": [
+    "Skill Training Centres, Vocational Enterprise Institutions, Mastercraft Persons",
+    "NBTE accreditation required"
+   ],
+   "note": "Portal open, no announced deadline — apply early"
+  },
+  {
+   "id": 82,
+   "name": "Renewed Hope Smallholder Support and Value-Chain Fund",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "Direct structural funding for agrifood businesses",
+   "url": "https://boanig.com/rh-shf/",
+   "type": "program",
+   "amount": "Affordable credit + inputs + guaranteed off-take",
+   "deadline": null,
+   "daysLeft": null,
+   "status": "open",
+   "eligibility": [
+    "Smallholder farmers in Nigeria (20+ states)",
+    "Via Farmer Aggregation Companies",
+    "EOI portal registration"
+   ],
+   "note": "BOA RH-SHF ongoing intervention; ~500k farmers reached — rolling EOI"
+  },
+  {
+   "id": 83,
+   "name": "$1 Million Startup World Cup Competition at RegTech Africa",
+   "regions": [
+    "Africa",
+    "Global"
+   ],
+   "country": null,
+   "benefits": "$1M Global Silicon Valley final investment prize track",
+   "url": "https://regtechafricaconference.com/startup-worldcup/",
+   "type": "competition",
+   "amount": "Path to $1M investment (SWC finals, San Francisco)",
+   "deadline": null,
+   "daysLeft": null,
+   "status": "closed",
+   "eligibility": [
+    "African startups"
+   ],
+   "note": "Abuja regional (May 20–22, 2026) concluded; winner advances to Startup World Cup finals — 2027 call expected"
+  },
+  {
+   "id": 84,
+   "name": "FATE Foundation AI Upskilling Programme 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": null,
+   "benefits": "Advanced digital implementation tools for educators",
+   "url": "https://fatefoundation.org/aiupskilling/?v=c6a82504ceeb",
+   "type": "training",
+   "amount": null,
+   "deadline": null,
+   "daysLeft": null,
+   "status": "open",
+   "eligibility": [
+    "Accredited higher-education institutions with STEM programmes",
+    "Nigeria, Ghana, Kenya, South Africa",
+    "Commitment to M&E reporting and curriculum integration"
+   ],
+   "note": "Google.org-funded ($4M) with AIMS; first-come first-served onboarding — apply early"
+  },
+  {
+   "id": 85,
+   "name": "iF Social Impact Prize 2026",
+   "regions": [
+    "Global"
+   ],
+   "country": null,
+   "benefits": "€100,000 global community transformation grant pool",
+   "url": "https://ifdesign.com/en/if-social-impact-prize",
+   "type": "award",
+   "amount": "Share of €100,000",
+   "deadline": "2026-08-19",
+   "daysLeft": 46,
+   "status": "open",
+   "eligibility": [
+    "Established projects advancing UN SDGs",
+    "Design-related",
+    "No student concepts",
+    "Free to apply"
+   ],
+   "note": "Round 1 closed May 20; ROUND 2 OPEN until Aug 19, 2026, 23:59 CET"
+  },
+  {
+   "id": 86,
+   "name": "Africa Business Concept Challenge 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": null,
+   "benefits": "Virtual competitive innovation prize for students",
+   "url": "https://gbsn.org/africachallenge/",
+   "type": "competition",
+   "amount": "$5,000 prize track",
+   "deadline": "2026-03-22",
+   "daysLeft": -104,
+   "status": "closed",
+   "eligibility": [
+    "Teams of 2–5",
+    "≥2 current students at an African institution",
+    "Faculty mentor required",
+    "Business concept tied to Agenda 2063 / SDGs"
+   ],
+   "note": "6th annual GBSN virtual competition; free entry; annual cycle"
+  },
+  {
+   "id": 87,
+   "name": "UNHCR Innovation Fellowship 2026",
+   "regions": [
+    "Global"
+   ],
+   "country": null,
+   "benefits": "Comprehensive internal & external innovation learning labs",
+   "url": "https://www.unhcr.org/innovation/innovation-fellowship/",
+   "type": "fellowship",
+   "amount": null,
+   "deadline": "2026-03-02",
+   "daysLeft": -124,
+   "status": "closed",
+   "eligibility": [
+    "UNHCR staff and members of partner organizations only"
+   ],
+   "note": "Internal/partner-facing — most founders NOT eligible; UNHCR also runs a separate Innovation Accelerator (opened May 2026)"
+  },
+  {
+   "id": 88,
+   "name": "Digital Xpress 2.0 Business Mums Edition",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "Win ₦1,000,000 cash grant targeted at mothers",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSehfS8LSynlLWQVV9MbwqqLVufn6SEGzEc8fR7Z7bIivlv_uQ/viewform",
+   "type": "competition",
+   "amount": "₦1,000,000 non-equity grant via pitch",
+   "deadline": null,
+   "daysLeft": null,
+   "status": "closed",
+   "eligibility": [
+    "Nigerian mothers running existing businesses",
+    "Ready to scale (not beginner training)"
+   ],
+   "note": "3-day hybrid bootcamp; event has passed — watch for 3.0"
+  },
+  {
+   "id": 89,
+   "name": "QS ImpACT Skills Challenge 2026",
+   "regions": [
+    "Global"
+   ],
+   "country": null,
+   "benefits": "$2,000 global technical project award",
+   "url": "https://qsimpact.org/skillschallenge/",
+   "type": "competition",
+   "amount": "$2,000 pool",
+   "deadline": "2026-03-10",
+   "daysLeft": -116,
+   "status": "closed",
+   "eligibility": [
+    "Youth aged 18–35 worldwide",
+    "Teams of 2–5",
+    "Design SDG-aligned digital games; no-code and coding tracks"
+   ],
+   "note": "Challenge ran Mar 16–29, 2026; free and virtual; annual"
+  },
+  {
+   "id": 90,
+   "name": "LEAP Africa Leadership Accelerator / LAP Fifth Edition",
+   "regions": [
+    "Africa"
+   ],
+   "country": null,
+   "benefits": "Three-month intensive mentorship & free online training",
+   "url": "https://leapafrica.org/lap/",
+   "type": "fellowship",
+   "amount": null,
+   "deadline": "2026-02-28",
+   "daysLeft": -126,
+   "status": "closed",
+   "eligibility": [
+    "African women aged 23–35",
+    "High-potential corporate professionals"
+   ],
+   "note": "5th edition: 3-week virtual + 1-week bootcamp + 3-month mentorship"
+  },
+  {
+   "id": 91,
+   "name": "FAO Internship Program 2026",
+   "regions": [
+    "Global"
+   ],
+   "country": null,
+   "benefits": "Up to $700 monthly stipends for international interns",
+   "url": "https://jobs.fao.org/careersection/fao_external/jobsearch.ftl",
+   "type": "internship",
+   "amount": "Paid",
+   "deadline": "2026-08-25",
+   "daysLeft": 52,
+   "status": "open",
+   "eligibility": [
+    "Aged 21–30",
+    "Enrolled in bachelor's/master's/PhD or graduated within 2 years (WHED-accredited)",
+    "One FAO official language",
+    "National of an FAO member country",
+    "No family at FAO; no previous FAO interns"
+   ],
+   "note": "2026 regional calls (Africa, Asia-Pacific, LatAm, NENA) OPEN until Aug 25, 2026"
+  },
+  {
+   "id": 92,
+   "name": "Dev-Afrique Development Advisors Agriculture Fellow",
+   "regions": [
+    "Africa"
+   ],
+   "country": null,
+   "benefits": "Paid agricultural economics professional fellowship",
+   "url": "https://devafrique.com/jobs/agricultural-economics-fellow/",
+   "type": "fellowship",
+   "amount": null,
+   "deadline": null,
+   "daysLeft": null,
+   "status": "unverified",
+   "eligibility": [
+    "Agricultural economics background (per directory)"
+   ],
+   "note": "No public info found — verify at devafrique.com/jobs before relying on it"
+  },
+  {
+   "id": 93,
+   "name": "Federal Government Enterprise and Empowerment Programme",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "₦300,000 Interest-free capital microloans",
+   "url": "https://geep.nsipa.gov.ng",
+   "type": "program",
+   "amount": "Interest-free micro-loans (e.g. MarketMoni up to ₦100,000)",
+   "deadline": null,
+   "daysLeft": null,
+   "status": "rolling",
+   "eligibility": [
+    "Nigerians in small-scale economic activity",
+    "MarketMoni: market women in recognized markets/cooperatives"
+   ],
+   "note": "Ongoing FG micro-credit via geep.nsipa.gov.ng — register any time"
+  },
+  {
+   "id": 94,
+   "name": "World Food Prize Foundation Innovate for Impact Challenge",
+   "regions": [
+    "Global"
+   ],
+   "country": null,
+   "benefits": "$50,000 to $65,000 cash prizes for AgTech solutions",
+   "url": "https://www.worldfoodprize.org/en/nominations/innovate_for_impact_challenge/",
+   "type": "competition",
+   "amount": "$50,000 winner",
+   "deadline": "2026-04-15",
+   "daysLeft": -80,
+   "status": "closed",
+   "eligibility": [
+    "Early-stage for-profit AgTech startups worldwide"
+   ],
+   "note": "Top 10 announced Jul 16; finals at Borlaug Dialogue, Des Moines, Oct 20–22, 2026"
+  },
+  {
+   "id": 95,
+   "name": "MasterCard Scale Women Entrepreneurs Call",
+   "regions": [
+    "Africa",
+    "Global"
+   ],
+   "country": null,
+   "benefits": "Enterprise scaling infrastructure support",
+   "url": "https://www.jotform.com/form/252744089488068",
+   "type": "program",
+   "amount": "Concessional loans ₦3M–₦300M",
+   "deadline": "2026-05-22",
+   "daysLeft": -43,
+   "status": "closed",
+   "eligibility": [
+    "Women-owned businesses in Nigeria",
+    "Revenue over ₦88M annually",
+    "Agriculture value chain or related sectors",
+    "Rural/peri-urban focus"
+   ],
+   "note": "Mastercard Foundation Pathways to Scale (P2S); closed May 22, 2026"
+  },
+  {
+   "id": 96,
+   "name": "Goldman Sachs 10,000 Women Entrepreneurs",
+   "regions": [
+    "Global"
+   ],
+   "country": null,
+   "benefits": "Elite business tuition and global execution",
+   "url": "https://www.coursera.org/collections/goldman-sachs-10000-women",
+   "type": "training",
+   "amount": "Free",
+   "deadline": null,
+   "daysLeft": null,
+   "status": "rolling",
+   "eligibility": [
+    "Anyone — no eligibility criteria",
+    "Designed for women business owners in emerging economies"
+   ],
+   "note": "10 free Coursera courses; alumni community on completion; enroll any time"
+  },
+  {
+   "id": 97,
+   "name": "BOI × MTN ₦1 Billion Y’ellopreneur 3.0 Matching Fund",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "₦1 Billion matching fund pool for woman-led businesses",
+   "url": "https://www.boi.ng/product/mtn-foundation-yellopreneur-fund/",
+   "type": "grant",
+   "amount": "Share of ₦1 billion matching fund",
+   "deadline": "2026-04-20",
+   "daysLeft": -75,
+   "status": "closed",
+   "eligibility": [
+    "Women who own or lead registered businesses in Nigeria",
+    "Sectors: agriculture, energy, fashion, ICT, waste, food processing, manufacturing"
+   ],
+   "note": "BOI + MTN Foundation 50:50 fund via Pan-Atlantic EDC; closed Apr 20"
+  },
+  {
+   "id": 98,
+   "name": "SIA Startup Foundry Cohort 3",
+   "regions": [
+    "Global"
+   ],
+   "country": null,
+   "benefits": "$10,000 equity-free validation growth grants",
+   "url": "https://siafdn.org/startup-foundry",
+   "type": "incubator",
+   "amount": "Up to $10,000 (split among 6 ventures)",
+   "deadline": "2026-03-13",
+   "daysLeft": -113,
+   "status": "closed",
+   "eligibility": [
+    "Founders aged 20–35",
+    "Business operating 1–2 years",
+    "Healthcare, education, agriculture, light manufacturing, renewable energy, recycling"
+   ],
+   "note": "Cohort 3 closed Mar 13; bootcamp + Demo Day"
+  },
+  {
+   "id": 99,
+   "name": "Fidelity Bank HerFidelity Apprenticeship Program",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "Structured corporate banking track apprenticeship",
+   "url": "https://fidelitybank.ng/herfidelity/apprenticeship/",
+   "type": "program",
+   "amount": null,
+   "deadline": "2026-03-15",
+   "daysLeft": -111,
+   "status": "closed",
+   "eligibility": [
+    "Young female apprentices in Nigeria",
+    "Structured training + financial inclusion track"
+   ],
+   "note": "Closed Mar 15, 2026 per Fidelity Bank site"
+  },
+  {
+   "id": 100,
+   "name": "EY Technology Talent Program 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "Monthly stipend, full hands-on tech training & job offer",
+   "url": "https://eyglobal.yello.co/external/requisitions/QAFPZFt8fveZsrRLBWkzmA",
+   "type": "program",
+   "amount": "Competitive monthly salary during training",
+   "deadline": "2026-03-15",
+   "daysLeft": -111,
+   "status": "closed",
+   "eligibility": [
+    "Nigerian graduates with relevant first degree",
+    "Strong technical background: data, AI/ML, cybersecurity, cloud, software, UI/UX"
+   ],
+   "note": "Big 4 recruitment + training track; closed Mar 15, 2026"
+  },
+  {
+   "id": 101,
+   "name": "Iris Prize 2026 for Youth-Led Nature Projects",
+   "regions": [
+    "Global"
+   ],
+   "country": null,
+   "benefits": "Up to $15,000 deployment grant funding for climate",
+   "url": "https://theirisproject.org/how-to-apply",
+   "type": "grant",
+   "amount": "$5,000 / $10,000 / $15,000 tiers",
+   "deadline": "2026-08-04",
+   "daysLeft": 31,
+   "status": "open",
+   "eligibility": [
+    "Youth aged 14–24 (Seed) or 16–24 (Stem/Iris)",
+    "Youth-led nature protection/restoration project",
+    "Youth majority in leadership with real decision power"
+   ],
+   "note": "deadline Aug 4, 2026 (some sources cite Apr 8; verify on theirisproject.org)"
+  },
+  {
+   "id": 102,
+   "name": "Jerry Eze Foundation Business & Entrepreneurship Grant",
+   "regions": [
+    "Africa",
+    "Global"
+   ],
+   "country": null,
+   "benefits": "Up to $300,000 financial support ecosystem pool",
+   "url": "https://www.jerryezefoundation.org/home",
+   "type": "grant",
+   "amount": "~$3,000 per entrepreneur (₦1bn pool, 240 recipients)",
+   "deadline": "2026-03-10",
+   "daysLeft": -116,
+   "status": "closed",
+   "eligibility": [
+    "Young Nigerian entrepreneurs and small businesses",
+    "Preference: agriculture, manufacturing, technology"
+   ],
+   "note": "2026 round disbursed May 1; watch jerryezefoundation.org for next cycle"
+  },
+  {
+   "id": 103,
+   "name": "BATN Foundation Graduate Agripreneur Program (GAP)",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "Up to ₦22 Million total scale agricultural grant",
+   "url": "https://www.batnf.net/wealthishere/gap",
+   "type": "grant",
+   "amount": "Up to ₦22M pool (₦1.5M grants awarded)",
+   "deadline": null,
+   "daysLeft": null,
+   "status": "rolling",
+   "eligibility": [
+    "Nigerian graduates entering agribusiness",
+    "Via partner universities"
+   ],
+   "note": "Rolling cycles ~2–3 weeks each; watch batnf.net/wealthishere/gap"
+  },
+  {
+   "id": 104,
+   "name": "Climate Launchpad For Green Business 2026",
+   "regions": [
+    "Global"
+   ],
+   "country": null,
+   "benefits": "Fully funded travel competition trip to Singapore",
+   "url": "https://climatelaunchpad.org",
+   "type": "competition",
+   "amount": null,
+   "deadline": "2026-05-15",
+   "daysLeft": -50,
+   "status": "closed",
+   "eligibility": [
+    "Anyone with an early-stage green business idea",
+    "Country-level deadlines vary (general May 15)"
+   ],
+   "note": "World's largest green business ideas competition; free entry; 2026 Grand Final in Singapore — national programs may still be running"
+  },
+  {
+   "id": 105,
+   "name": "Katapult Africa Programme for Climate Tech Startups",
+   "regions": [
+    "Africa"
+   ],
+   "country": null,
+   "benefits": "Seed capital matching opportunities & global network",
+   "url": "https://form.typeform.com/to/YLpBgIbU?typeform&typeform-source=msmeafricaonline.com",
+   "type": "accelerator",
+   "amount": "$150k–$500k equity investment",
+   "deadline": "2026-04-25",
+   "daysLeft": -70,
+   "status": "closed",
+   "eligibility": [
+    "African climate tech startups (same Katapult Africa cohort 3 intake)"
+   ],
+   "note": "Duplicate route into Katapult Africa accelerator via typeform; closed Apr 25, 2026"
+  },
+  {
+   "id": 106,
+   "name": "Grooming Endowment Trust (GET) Undergrad Scholarship",
+   "regions": [
+    "Africa"
+   ],
+   "country": "Nigeria",
+   "benefits": "Full scholarship (Tuition, living stipends, housing)",
+   "url": "https://amadeus.edu.ng/admission/scholarships/get-scholarship/",
+   "type": "scholarship",
+   "amount": "Full tuition + accommodation + fees",
+   "deadline": "2026-04-05",
+   "daysLeft": -90,
+   "status": "closed",
+   "eligibility": [
+    "Nigerian students entering full-time undergrad at Amadeus University, Amizi",
+    "Academic merit"
+   ],
+   "note": "20 full scholarships; stage 1 closed Apr 5, 2026"
+  },
+  {
+   "id": 107,
+   "name": "Africa’s Business Heroes For Entrepreneurs 2026",
+   "regions": [
+    "Africa"
+   ],
+   "country": null,
+   "benefits": "Share of $1.5 Million non-equity grant prize pool",
+   "url": "https://africabusinessheroes.org/en/register",
+   "type": "competition",
+   "amount": "$1.5M pool; winner $300,000",
+   "deadline": "2026-05-07",
+   "daysLeft": -58,
+   "status": "closed",
+   "eligibility": [
+    "African entrepreneurs (all 54 countries)",
+    "For-profit businesses, typically 3+ years operating"
+   ],
+   "note": "Jack Ma Foundation's flagship; top 10 share pool; closed May 7, 2026"
+  },
+  {
+   "id": 108,
+   "name": "Y Combinator Accelerator (S26/W27 Batches)",
+   "regions": [
+    "Global",
+    "Americas"
+   ],
+   "country": null,
+   "benefits": "$500,000 standard investment funding & elite network access",
+   "url": "https://www.ycombinator.com",
+   "type": "accelerator",
+   "amount": "$500,000 standard deal",
+   "deadline": "2026-11-10",
+   "daysLeft": 129,
+   "status": "open",
+   "eligibility": [
+    "Startups worldwide, any stage (pre-idea to launched)",
+    "Must relocate to San Francisco for the batch",
+    "Batch-based: apply any time; late apps reviewed for next batch"
+   ],
+   "note": "W2027 deadline ~Nov 10, 2026 (est. from YC's pattern; confirm at ycombinator.com/apply). Rolling early apps encouraged"
+  },
+  {
+   "id": 109,
+   "name": "Station F Founders Program 2026/2027",
+   "regions": [
+    "Europe"
+   ],
+   "country": null,
+   "benefits": "Full incubation at Europe's largest tech startup campus",
+   "url": "https://stationf.co",
+   "type": "incubator",
+   "amount": null,
+   "deadline": "2026-07-20",
+   "daysLeft": 16,
+   "status": "closing-soon",
+   "eligibility": [
+    "Early-stage startups worldwide",
+    "Paid program (~€195/desk/month); English or French"
+   ],
+   "note": "apply by Jul 20, 2026 for the Sept 15 batch at Paris's Station F campus (200+ startups per batch)"
+  },
+  {
+   "id": 110,
+   "name": "Techstars Everywhere & Global Cohorts",
+   "regions": [
+    "Global",
+    "Europe"
+   ],
+   "country": null,
+   "benefits": "$120,000–$220,000 funding + equity-free mentorship",
+   "url": "https://www.techstars.com",
+   "type": "accelerator",
+   "amount": "$220,000 investment",
+   "deadline": "2026-06-10",
+   "daysLeft": -24,
+   "status": "closed",
+   "eligibility": [
+    "Tech startups worldwide",
+    "Per-program criteria — 40+ city/vertical programs"
+   ],
+   "note": "Fall 2026 apps closed Jun 10; Spring 2027 applications open ~Sept 2026"
+  },
+  {
+   "id": 111,
+   "name": "Antler Asia-Pacific & Singapore Accelerator",
+   "regions": [
+    "Asia"
+   ],
+   "country": null,
+   "benefits": "$100,000–$150,000 pre-seed funding for top Asian founders",
+   "url": "https://www.antler.co/location/singapore",
+   "type": "accelerator",
+   "amount": "Up to $500,000 investment",
+   "deadline": null,
+   "daysLeft": null,
+   "status": "rolling",
+   "eligibility": [
+    "Individuals or teams, pre-idea to pre-seed",
+    "Must meet Singapore visa eligibility for in-person residency"
+   ],
+   "note": "Rolling applications; next Singapore residencies start on a cohort cadence (~Feb/Aug) — apply via antler.co/apply"
+  },
+  {
+   "id": 112,
+   "name": "Sir Harry Evans Global Fellowship 2026/2027",
+   "regions": [
+    "Global"
+   ],
+   "country": null,
+   "benefits": "£4,444/mo salary + £1,250/mo stipend for journalists",
+   "url": "https://www.opportunitiesforafricans.com/the-sir-harry-evans-global-fellowship-2026-2027/",
+   "type": "fellowship",
+   "amount": "Fully funded 9-month fellowship",
+   "deadline": "2026-07-10",
+   "daysLeft": 6,
+   "status": "closing-soon",
+   "eligibility": [
+    "Early-career journalists (~2–5 years experience)",
+    "Investigative project proposal",
+    "Placement in Reuters newsroom: London, NY, Sydney or Toronto"
+   ],
+   "note": "closes Jul 10, 2026 at 12 noon BST"
+  },
+  {
+   "id": 113,
+   "name": "Western Union Global Impact Fellowship 2026",
+   "regions": [
+    "Global",
+    "Americas"
+   ],
+   "country": null,
+   "benefits": "Fully-funded 16-week business development program",
+   "url": "https://watson.is/western-union-global-fellowship/",
+   "type": "fellowship",
+   "amount": "Full sponsorship + $36,000 seed funding",
+   "deadline": null,
+   "daysLeft": null,
+   "status": "open",
+   "eligibility": [
+    "Entrepreneurs serving refugees, displaced or highly marginalized communities",
+    "Global — 16-week program Aug 11–Dec 3, 2026"
+   ],
+   "note": "Priority deadline Jun 28 passed; rolling review until spots filled — apply NOW if interested"
+  },
+  {
+   "id": 114,
+   "name": "100+ Accelerator Sustainability Program 2026",
+   "regions": [
+    "Global"
+   ],
+   "country": null,
+   "benefits": "Corporate pilot opportunity + up to $100,000 funding",
+   "url": "https://opportunitiesforyouth.org/2026/06/17/100-accelerator-cohort-7-applications-open/",
+   "type": "accelerator",
+   "amount": "Up to $100,000 pilot funding",
+   "deadline": "2026-07-10",
+   "daysLeft": 6,
+   "status": "closing-soon",
+   "eligibility": [
+    "Sustainability startups worldwide",
+    "Solutions pilotable with corporate partners (AB InBev, Coca-Cola, Colgate, Danone, Mondelēz, Unilever)",
+    "Water, climate, packaging, agriculture, biodiversity, supply chain"
+   ],
+   "note": "Cohort 7 OPEN — closes Jul 10, 2026"
+  },
+  {
+   "id": 115,
+   "name": "University of Birmingham Global South Fellowship",
+   "regions": [
+    "Africa",
+    "Asia",
+    "Americas"
+   ],
+   "country": null,
+   "benefits": "Travel expenses up to £850 + £1,500 monthly stipend",
+   "url": "https://www.opportunitiesforafricans.com/the-university-of-birmingham-global-south-fellowship-program-2026/",
+   "type": "fellowship",
+   "amount": "£1,500/month (≤3 months) + £850 travel",
+   "deadline": "2026-05-29",
+   "daysLeft": -36,
+   "status": "closed",
+   "eligibility": [
+    "Early-career researchers from Global South universities",
+    "Completed doctorate required",
+    "Education, global health, sustainability focus"
+   ],
+   "note": "Birmingham + Illinois visiting fellowship; closed May 29, 2026"
+  },
+  {
+   "id": 116,
+   "name": "Luxembourg Fit 4 Start Program Cohort",
+   "regions": [
+    "Europe"
+   ],
+   "country": null,
+   "benefits": "€150,000 equity-free funding for tech/space startups",
+   "url": "https://eufundingportal.eu/innovation-accelerator-program/",
+   "type": "accelerator",
+   "amount": "Up to €150,000 equity-free",
+   "deadline": "2026-07-10",
+   "daysLeft": 6,
+   "status": "closing-soon",
+   "eligibility": [
+    "Startups in digital, healthtech, space or defence",
+    "Willing to join programme in Luxembourg"
+   ],
+   "note": "Fit 4 Start #17 OPEN — closes Jul 10, 2026"
+  },
+  {
+   "id": 117,
+   "name": "Alchemist Doha MENA Accelerator",
+   "regions": [
+    "Middle East",
+    "Asia"
+   ],
+   "country": null,
+   "benefits": "$50,000 investment and strategic enterprise tech validation",
+   "url": "https://www.alchemistaccelerator.com",
+   "type": "accelerator",
+   "amount": null,
+   "deadline": null,
+   "daysLeft": null,
+   "status": "rolling",
+   "eligibility": [
+    "Enterprise/B2B tech startups in Qatar, MENA and emerging markets"
+   ],
+   "note": "Alchemist Doha — rolling batch applications via alchemistaccelerator.com/apply; no fixed public deadline"
+  },
+  {
+   "id": 118,
+   "name": "Echoing Green Global Fellowship 2027",
+   "regions": [
+    "Global"
+   ],
+   "country": null,
+   "benefits": "$80,000 seed grant funding for social entrepreneurs",
+   "url": "https://www.echoinggreen.org",
+   "type": "fellowship",
+   "amount": "$100,000 stipend + leadership support",
+   "deadline": "2027-03-01",
+   "daysLeft": 240,
+   "status": "open",
+   "eligibility": [
+    "Early-stage social entrepreneurs worldwide",
+    "Founder building a new organization (nonprofit or for-profit)"
+   ],
+   "note": "Next cycle deadline Mar 1, 2027, 2PM ET"
+  },
+  {
+   "id": 119,
+   "name": "MassChallenge Europe & Switzerland Program",
+   "regions": [
+    "Europe"
+   ],
+   "country": null,
+   "benefits": "Equity-free zero-fee cash prizes, corporate introductions",
+   "url": "https://masschallenge.org",
+   "type": "accelerator",
+   "amount": "CHF 1M+ equity-free prize pool",
+   "deadline": "2026-03-04",
+   "daysLeft": -122,
+   "status": "closed",
+   "eligibility": [
+    "Early-stage startups, any industry, worldwide",
+    "Sustainability tracks: agtech/foodtech, materials, healthtech"
+   ],
+   "note": "Switzerland 2026 apps ran Jan 14–Mar 4; annual — next window ~Jan 2027"
+  },
+  {
+   "id": 120,
+   "name": "Seedcamp Europe Early-Stage Fund",
+   "regions": [
+    "Europe"
+   ],
+   "country": null,
+   "benefits": "$350,000 to $1,000,000 investment for technical startups",
+   "url": "https://seedcamp.com",
+   "type": "program",
+   "amount": "Pre-seed/seed investment (typically £300k–£500k)",
+   "deadline": null,
+   "daysLeft": null,
+   "status": "rolling",
+   "eligibility": [
+    "Early-stage founders building from Europe (incl. remote)",
+    "Venture-scale ambition"
+   ],
+   "note": "Seedcamp is a fund, not a cohort accelerator — pitches accepted year-round via seedcamp.com"
+  },
+  {
+   "id": 121,
+   "name": "Tech Nation UK Visa & Applied AI Accelerator",
+   "regions": [
+    "Europe"
+   ],
+   "country": null,
+   "benefits": "Tech ecosystem integration, masterclasses & UK endorsement",
+   "url": "https://technation.io",
+   "type": "program",
+   "amount": null,
+   "deadline": null,
+   "daysLeft": null,
+   "status": "rolling",
+   "eligibility": [
+    "Tech talent seeking UK Global Talent Visa endorsement (rolling)",
+    "Applied AI programme: UK-based AI startups (cohort windows)"
+   ],
+   "note": "Visa endorsement applications accepted year-round via technation.io; Applied AI cohorts announced periodically"
+  },
+  {
+   "id": 122,
+   "name": "Chinaccelerator / Orbit Startups Emerging Markets",
+   "regions": [
+    "Asia"
+   ],
+   "country": null,
+   "benefits": "$150,000 investment + cross-border growth scaling",
+   "url": "https://orbitstartups.com",
+   "type": "accelerator",
+   "amount": null,
+   "deadline": null,
+   "daysLeft": null,
+   "status": "rolling",
+   "eligibility": [
+    "Startups in emerging markets (SOSV's Orbit Startups, incl. former Chinaccelerator)",
+    "Digital/tech focus"
+   ],
+   "note": "Rolling applications; SOSV invests batch-by-batch — apply via orbitstartups.com"
+  },
+  {
+   "id": 123,
+   "name": "Indo-Pacific NGO Blended Finance Accelerator",
+   "regions": [
+    "Asia",
+    "Oceania"
+   ],
+   "country": null,
+   "benefits": "Up to AUD 840,000 for climate and gender solutions",
+   "url": null,
+   "type": "grant",
+   "amount": "Up to AUD 840,000 (~USD 550k) + acceleration support",
+   "deadline": null,
+   "daysLeft": null,
+   "status": "open",
+   "eligibility": [
+    "NGOs working on climate resilience / gender equality in the Indo-Pacific",
+    "Blended finance vehicle design (with Convergence)",
+    "Pacific focus prioritized"
+   ],
+   "note": "DFAT + Convergence; 2nd cycle launched Jun 1, 2026 — check convergence.finance/accelerator/dfatngo for the cycle deadline"
+  },
+  {
+   "id": 124,
+   "name": "L’Oréal L’AcceleratOR Sustainable Innovation",
+   "regions": [
+    "Global"
+   ],
+   "country": null,
+   "benefits": "Access to €100M sustainable innovation program",
+   "url": "https://opportunitiesforyouth.org/2026/06/17/100-accelerator-cohort-7-applications-open/",
+   "type": "accelerator",
+   "amount": "Backed by €100M through 2030",
+   "deadline": "2026-05-11",
+   "daysLeft": -54,
+   "status": "closed",
+   "eligibility": [
+    "Growth-stage startups with ready-to-pilot sustainability solutions",
+    "Global; with Cambridge Institute for Sustainability Leadership"
+   ],
+   "note": "2026 intake closed May 11; annual — related Big Bang SAPMENA program closed Jul 3"
+  },
+  {
+   "id": 125,
+   "name": "Capital Factory Austin Tech Accelerator",
+   "regions": [
+    "Americas"
+   ],
+   "country": null,
+   "benefits": "Access to SXSW VIP matching & deep-tech funding paths",
+   "url": "https://www.capitalfactory.com",
+   "type": "incubator",
+   "amount": null,
+   "deadline": null,
+   "daysLeft": null,
+   "status": "rolling",
+   "eligibility": [
+    "Tech startups, especially Texas/Austin-connected",
+    "Membership + accelerator + VC intros"
+   ],
+   "note": "Rolling applications via capitalfactory.com"
+  },
+  {
+   "id": 126,
+   "name": "Princeton University HAX Plasma Forge Program",
+   "regions": [
+    "Americas"
+   ],
+   "country": null,
+   "benefits": "Deep-tech hardware scaling and engineering grants",
+   "url": "https://hax.co",
+   "type": "accelerator",
+   "amount": "SOSV invests up to ~$500k in hard-tech",
+   "deadline": null,
+   "daysLeft": null,
+   "status": "unverified",
+   "eligibility": [
+    "Hard-tech / deep-tech founders (HAX is SOSV's hard tech program, based in Newark NJ)"
+   ],
+   "note": "PDF lists 'Princeton HAX Plasma Forge' — likely the HAX + Princeton plasma program; verify at hax.co; HAX itself takes rolling applications"
+  },
+  {
+   "id": 127,
+   "name": "RevTech Labs FinTech Accelerator",
+   "regions": [
+    "Americas"
+   ],
+   "country": null,
+   "benefits": "Up to $220,000 funding for FinTech/InsurTech startups",
+   "url": "https://www.openvc.app/investor-lists/incubators-accelerators",
+   "type": "accelerator",
+   "amount": null,
+   "deadline": null,
+   "daysLeft": null,
+   "status": "unverified",
+   "eligibility": [
+    "FinTech/InsurTech startups (RevTech Labs, Charlotte NC)"
+   ],
+   "note": "Cohort-based (~2 per year); no 2026 deadline verified — check revtechlabs.com"
+  },
+  {
+   "id": 128,
+   "name": "RootCamp AgriTech Germany Program",
+   "regions": [
+    "Europe"
+   ],
+   "country": null,
+   "benefits": "Equity-free support structure for food supply innovation",
+   "url": "https://www.rootcamp.seedblink.com",
+   "type": "accelerator",
+   "amount": null,
+   "deadline": null,
+   "daysLeft": null,
+   "status": "unverified",
+   "eligibility": [
+    "AgTech / food-tech startups; program based in Hannover, Germany (with SeedBlink)"
+   ],
+   "note": "Cohort-based; no 2026 deadline verified — check rootcamp.seedblink.com"
+  },
+  {
+   "id": 129,
+   "name": "Stellar Network EMEA Blockchain Accelerator",
+   "regions": [
+    "Europe",
+    "Asia"
+   ],
+   "country": null,
+   "benefits": "12-week remote execution support + dev grants",
+   "url": "https://eufundingportal.eu/innovation-accelerator-program/",
+   "type": "accelerator",
+   "amount": null,
+   "deadline": null,
+   "daysLeft": null,
+   "status": "unverified",
+   "eligibility": [
+    "Blockchain/Web3 startups building on Stellar (EMEA focus)"
+   ],
+   "note": "PDF's link points at generic stellar.org; no 2026 program deadline verified — treat with caution"
+  },
+  {
+   "id": 130,
+   "name": "Innovate UK",
+   "regions": [
+    "Europe"
+   ],
+   "country": null,
+   "benefits": "Significant",
+   "url": "https://www.gov.uk/government/organisations/innovate-uk",
+   "type": "grant",
+   "amount": "Grants typically £25k–£2M per call",
+   "deadline": null,
+   "daysLeft": null,
+   "status": "rolling",
+   "eligibility": [
+    "UK-registered businesses (some calls allow international partners)",
+    "Innovation projects; call-specific criteria"
+   ],
+   "note": "Innovate UK runs many funding competitions year-round — see the funding finder at apply-for-innovation-funding.service.gov.uk"
+  },
+  {
+   "id": 131,
+   "name": "Asian Development Bank (ADB) Internship 2026",
+   "regions": [
+    "Asia"
+   ],
+   "country": null,
+   "benefits": "Stipend-supported international developmental experience",
+   "url": "https://www.adb.org",
+   "type": "internship",
+   "amount": "Paid, 8–12 weeks",
+   "deadline": "2026-03-16",
+   "daysLeft": -110,
+   "status": "closed",
+   "eligibility": [
+    "Master's/PhD students at schools in ADB member countries",
+    "Enrolled for full internship duration"
+   ],
+   "note": "2026 cycle closed Mar 16; interns start June; next cycle ~Jan–Feb 2027"
+  },
+  {
+   "id": 132,
+   "name": "Japan Exchange Group (JPX) Tech Startup Track",
+   "regions": [
+    "Asia"
+   ],
+   "country": null,
+   "benefits": "Market expansion mentorship & Asian investor pipeline",
+   "url": "https://www.jpx.co.jp",
+   "type": "program",
+   "amount": null,
+   "deadline": null,
+   "daysLeft": null,
+   "status": "unverified",
+   "eligibility": [
+    "Tech startups targeting Japanese listing/market (per directory)"
+   ],
+   "note": "PDF links generic jpx.co.jp; no specific 2026 program verified — treat with caution"
+  },
+  {
+   "id": 133,
+   "name": "HKSTP Epic Pitch Competition Hong Kong",
+   "regions": [
+    "Asia"
+   ],
+   "country": null,
+   "benefits": "Six-figure cash prizes & Silicon Valley level expansion",
+   "url": "https://www.hkstp.org",
+   "type": "competition",
+   "amount": null,
+   "deadline": null,
+   "daysLeft": null,
+   "status": "upcoming",
+   "eligibility": [
+    "Companies <10 years old",
+    "Digital Health Tech, FinTech or GreenTech",
+    "Intent to expand to Hong Kong / Greater Bay Area"
+   ],
+   "note": "EPiC runs annually (2025 apps closed Jun 17, EPIC Week in Nov) — 2026 edition details via epic.hkstp.org"
+  },
+  {
+   "id": 134,
+   "name": "Blue Food & Aquaculture Innovation Program",
+   "regions": [
+    "Global",
+    "Europe"
+   ],
+   "country": null,
+   "benefits": "Scale startup structures in sustainable food systems",
+   "url": "https://opportunitiesforyouth.org/2026/06/17/100-accelerator-cohort-7-applications-open/",
+   "type": "accelerator",
+   "amount": null,
+   "deadline": null,
+   "daysLeft": null,
+   "status": "unverified",
+   "eligibility": [
+    "Aquaculture / blue-food startups (per directory)"
+   ],
+   "note": "Likely HATCH Blue or EIT Food's aquaculture track; no 2026 deadline verified — verify before relying"
+  },
+  {
+   "id": 135,
+   "name": "GreenLight Fund Expression of Interest",
+   "regions": [
+    "Americas"
+   ],
+   "country": null,
+   "benefits": "Up to $600,000 unrestricted funding for nonprofits",
+   "url": "https://opportunitiesforyouth.org/2026/06/17/100-accelerator-cohort-7-applications-open/",
+   "type": "grant",
+   "amount": null,
+   "deadline": null,
+   "daysLeft": null,
+   "status": "rolling",
+   "eligibility": [
+    "Nonprofits with proven programs expandable to GreenLight Fund's US cities",
+    "Serving children/families in poverty"
+   ],
+   "note": "Expression of Interest accepted on rolling basis per city via greenlightfund.org"
+  },
+  {
+   "id": 136,
+   "name": "Hub71 Abu Dhabi Incentive Program",
+   "regions": [
+    "Middle East",
+    "Asia"
+   ],
+   "country": null,
+   "benefits": "100% subsidized housing, office space, and health tech",
+   "url": "https://www.hub71.com",
+   "type": "incubator",
+   "amount": "Incentives package (equity-free support + Abu Dhabi setup)",
+   "deadline": "2026-08-02",
+   "daysLeft": 29,
+   "status": "open",
+   "eligibility": [
+    "Tech startups worldwide willing to anchor in Abu Dhabi",
+    "Specialist tracks: AI, Digital Assets, ClimateTech, Life Sciences"
+   ],
+   "note": "Cohort 20 OPEN until Aug 2, 2026; programme starts Feb 2027; late apps roll to next cohort"
+  },
+  {
+   "id": 137,
+   "name": "EIC Accelerator (European Innovation Council)",
+   "regions": [
+    "Europe"
+   ],
+   "country": null,
+   "benefits": "Up to €2.5 Million equity-free grant + equity funding",
+   "url": "https://eic.ec.europa.eu",
+   "type": "grant",
+   "amount": "Grants up to €2.5M + equity up to €15M",
+   "deadline": "2026-09-02",
+   "daysLeft": 60,
+   "status": "open",
+   "eligibility": [
+    "SMEs (incl. startups) established in EU member states or Horizon-associated countries",
+    "Deep-tech / breakthrough innovation, TRL 5/6+",
+    "Short proposal any time; full proposal at cut-offs"
+   ],
+   "note": "2026 cut-offs: Jan 7, Mar 4, May 6, Jul 8, SEP 2, NOV 4 — next cut-off Sep 2, 2026; €414M budget"
+  },
+  {
+   "id": 138,
+   "name": "MIT Solve Global Challenges 2027",
+   "regions": [
+    "Global"
+   ],
+   "country": null,
+   "benefits": "$1 Million+ in prize funding for social impact tech",
+   "url": "https://solve.mit.edu",
+   "type": "program",
+   "amount": "Grants (typically $10k+) + 9-month support program",
+   "deadline": null,
+   "daysLeft": null,
+   "status": "upcoming",
+   "eligibility": [
+    "Tech-based social impact solutions, any stage/country",
+    "5 challenge areas: climate, learning, health, economic prosperity, indigenous communities"
+   ],
+   "note": "2027 Global Challenges open Sept 2026 (annual Sept–Nov window); 10th-anniversary challenge closed May 21"
+  },
+  {
+   "id": 139,
+   "name": "Toronto Tech Founders Program",
+   "regions": [
+    "Americas"
+   ],
+   "country": null,
+   "benefits": "Access to CAD capital funds & North American enterprise lines",
+   "url": "https://www.toronto.ca",
+   "type": "program",
+   "amount": null,
+   "deadline": null,
+   "daysLeft": null,
+   "status": "unverified",
+   "eligibility": [
+    "Tech founders in Toronto (per directory)"
+   ],
+   "note": "PDF links generic toronto.ca; no specific 2026 program verified — treat with caution"
+  },
+  {
+   "id": 140,
+   "name": "Start-Up Chile Build & Ignite Tracks",
+   "regions": [
+    "Americas"
+   ],
+   "country": null,
+   "benefits": "Up to $50,000 equity-free funding + automatic visa",
+   "url": "https://startupchile.org",
+   "type": "accelerator",
+   "amount": "Build: $12k–$18k; Ignite: up to ~$100k equity-free + startup visa",
+   "deadline": "2026-11-30",
+   "daysLeft": 149,
+   "status": "open",
+   "eligibility": [
+    "Startups worldwide willing to relocate to Chile",
+    "Build: validated idea/early prototype; Ignite: functional product"
+   ],
+   "note": "BIG 12 apps closed Apr 30; BIG 13 window Nov 4–30, 2026"
+  },
+  {
+   "id": 141,
+   "name": "Parallel 18 Puerto Rico Accelerator",
+   "regions": [
+    "Americas"
+   ],
+   "country": null,
+   "benefits": "$40,000 equity-free grant + global gateway",
+   "url": "https://www.parallel18.com",
+   "type": "accelerator",
+   "amount": "$100,000 via SAFE",
+   "deadline": null,
+   "daysLeft": null,
+   "status": "closed",
+   "eligibility": [
+    "Startups worldwide willing to operate from Puerto Rico",
+    "16-week program Jul–Oct 2026"
+   ],
+   "note": "2026 selection announced early June — current cohort running; next call expected ~late 2026"
+  },
+  {
+   "id": 142,
+   "name": "South Summit Innovation Challenge",
+   "regions": [
+    "Global",
+    "Europe"
+   ],
+   "country": null,
+   "benefits": "Global visibility stage, corporate connections & VC matching",
+   "url": "https://www.southsummit.co",
+   "type": "competition",
+   "amount": null,
+   "deadline": "2026-02-28",
+   "daysLeft": -126,
+   "status": "closed",
+   "eligibility": [
+    "Startups from any country, industry or stage",
+    "Free to apply"
+   ],
+   "note": "South Summit Madrid ran Jun 3–5, 2026; 100 finalists pitched; 2027 call expected ~late 2026"
+  }
+ ]
+}
